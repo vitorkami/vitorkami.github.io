@@ -1,0 +1,30 @@
+---
+title: "Fieldwork"
+---
+
+# Fieldwork
+
+Aqui você pode colocar:
+
+- sistemas que você amostra (inselbergs, cerrados, florestas, etc.)
+- regiões (estado, país)
+- uma ideia das campanhas (anos, objetivos)
+- fotos e legendas
+
+## Sistemas de estudo
+
+- Inselbergs em [região], focando em [grupo/tipo de interação]
+- Áreas de cerrado em [região], estudando [tema]
+
+## Fotos de campo (exemplos)
+
+![Descrição da foto 1](img/campo1.jpg)
+
+![Descrição da foto 2](img/campo2.jpg)
+
+*(Você pode criar uma pastinha `img/` na raiz do projeto e colocar as fotos lá.)*
+
+## Notas de campo
+
+- 2023–2025: campanhas em [local], focando em [pergunta]
+- Trabalho com [equipes/grupos] em [projetos]

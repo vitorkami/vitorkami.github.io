@@ -1,0 +1,21 @@
+---
+title: "Code"
+---
+
+# Code & Reproducible Analyses
+
+Nesta página você encontra links para códigos e repositórios relacionados aos meus artigos e projetos.
+
+## Códigos por manuscrito
+
+- **How does insularity shape plant dispersal and reproductive interactions on inselbergs?**  
+  Repositório com scripts em R para análises e figuras:  
+  [GitHub – insularity-dispersal-plant-2025](https://github.com/vitorkami/INSIRA_O_NOME_DO_REPO)
+
+- **Outro artigo / projeto**  
+  [GitHub – nome-do-repo](https://github.com/vitorkami/OUTRO_REPO)
+
+## Outros projetos de código
+
+- Pacotes, funções ou tutoriais em R que você quiser destacar.
+- Ex: [GitHub – ecological-models-utils](https://github.com/vitorkami/algum-repo)
