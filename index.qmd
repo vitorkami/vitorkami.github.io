@@ -1,5 +1,5 @@
 ::: {.columns}
-::: {.column width30%"}
+::: {.column width="30%"}
 ![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
 :::
 
