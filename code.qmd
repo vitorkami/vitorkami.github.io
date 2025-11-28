@@ -1,21 +1,19 @@
 ---
-title: "Code"
+title: "Code & Reproducible Workflows"
 ---
 
-# Code & Reproducible Analyses
+# Code & reproducible workflows
 
-Nesta página você encontra links para códigos e repositórios relacionados aos meus artigos e projetos.
+My research involves code at many stages of the scientific process, from data collection to publication‑ready figures.  
+I work mainly in **R**, combining classical statistical approaches with modern computational tools.
 
-## Códigos por manuscrito
+I am interested in:
 
-- **How does insularity shape plant dispersal and reproductive interactions on inselbergs?**  
-  Repositório com scripts em R para análises e figuras:  
-  [GitHub – insularity-dispersal-plant-2025](https://github.com/vitorkami/INSIRA_O_NOME_DO_REPO)
+- building and curating **data sets** from field, herbarium and environmental data  
+- performing **classical statistical analyses** (GLMs, mixed models, multivariate analyses, etc.)  
+- developing and applying **machine learning algorithms** for ecological and biogeographical questions  
+- designing **figures and visualisations** that communicate results in a precise, clear and aesthetically pleasing way  
+- implementing **reproducible workflows**, integrating data, code and documentation in transparent pipelines
 
-- **Outro artigo / projeto**  
-  [GitHub – nome-do-repo](https://github.com/vitorkami/OUTRO_REPO)
+Soon this page will host links to the GitHub repositories associated with my manuscripts and ongoing projects.
 
-## Outros projetos de código
-
-- Pacotes, funções ou tutoriais em R que você quiser destacar.
-- Ex: [GitHub – ecological-models-utils](https://github.com/vitorkami/algum-repo)

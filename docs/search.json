@@ -58,23 +58,9 @@
   {
     "objectID": "code.html",
     "href": "code.html",
-    "title": "Code",
+    "title": "Code & Reproducible Workflows",
     "section": "",
-    "text": "Nesta página você encontra links para códigos e repositórios relacionados aos meus artigos e projetos.\n\n\n\nHow does insularity shape plant dispersal and reproductive interactions on inselbergs?\nRepositório com scripts em R para análises e figuras:\nGitHub – insularity-dispersal-plant-2025\nOutro artigo / projeto\nGitHub – nome-do-repo\n\n\n\n\n\nPacotes, funções ou tutoriais em R que você quiser destacar.\nEx: GitHub – ecological-models-utils"
-  },
-  {
-    "objectID": "code.html#códigos-por-manuscrito",
-    "href": "code.html#códigos-por-manuscrito",
-    "title": "Code",
-    "section": "",
-    "text": "How does insularity shape plant dispersal and reproductive interactions on inselbergs?\nRepositório com scripts em R para análises e figuras:\nGitHub – insularity-dispersal-plant-2025\nOutro artigo / projeto\nGitHub – nome-do-repo"
-  },
-  {
-    "objectID": "code.html#outros-projetos-de-código",
-    "href": "code.html#outros-projetos-de-código",
-    "title": "Code",
-    "section": "",
-    "text": "Pacotes, funções ou tutoriais em R que você quiser destacar.\nEx: GitHub – ecological-models-utils"
+    "text": "Code & reproducible workflows\nMy research involves code at many stages of the scientific process, from data collection to publication‑ready figures.\nI work mainly in R, combining classical statistical approaches with modern computational tools.\nI am interested in:\n\nbuilding and curating data sets from field, herbarium and environmental data\n\nperforming classical statistical analyses (GLMs, mixed models, multivariate analyses, etc.)\n\ndeveloping and applying machine learning algorithms for ecological and biogeographical questions\n\ndesigning figures and visualisations that communicate results in a precise, clear and aesthetically pleasing way\n\nimplementing reproducible workflows, integrating data, code and documentation in transparent pipelines\n\nSoon this page will host links to the GitHub repositories associated with my manuscripts and ongoing projects."
   },
   {
     "objectID": "publications.html",
