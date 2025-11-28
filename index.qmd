@@ -1,3 +1,12 @@
+---
+title: "Vitor de Andrade Kamimura"
+subtitle: "Ecologist and postdoctoral researcher"
+format:
+  html:
+    title-block-banner: true
+---
+
+
 ::: {.columns}
 ::: {.column width="30%"}
 ![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
