@@ -19,7 +19,7 @@ Across these systems, I combine vegetation surveys, demographic monitoring, expe
 
 ## Fieldwork video
 
-Below is a short video (in Portuguese) presenting some of the ecosystems and questions that motivate my fieldwork.
+Below is a short video presenting my fieldwork in the Atlantic Forest.
 
 ::: video-container
 <iframe

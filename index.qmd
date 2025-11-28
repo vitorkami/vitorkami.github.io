@@ -11,7 +11,7 @@ editor:
 
 ::: columns
 ::: {.column width="20%"}
-![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
+![](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
 :::
 
 ::: {.column width="90%"}
