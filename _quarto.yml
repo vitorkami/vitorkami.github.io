@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Vitor de Andrade Kamimura"
@@ -17,4 +18,3 @@ website:
 format:
   html:
     theme: cosmo
-
