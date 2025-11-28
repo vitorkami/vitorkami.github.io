@@ -1,0 +1,58 @@
+/* 1. Cores principais em tons de verde (Bootstrap variables) */
+:root {
+  --bs-primary: #1b5e20;         /* verde escuro */
+  --bs-link-color: #2e7d32;      /* verde médio */
+  --bs-link-hover-color: #1b5e20;
+}
+
+/* Fundo geral mais claro/esverdeado */
+body {
+  background-color: #f4f9f4;     /* verde bem clarinho */
+}
+
+/* Navbar em tom de verde escuro */
+.navbar {
+  background-color: #1b5e20 !important;
+}
+
+.navbar a.nav-link,
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+/* 2. Foto de fundo no título da página (title block) */
+#title-block-header {
+  background-image: url("img/bg-ecology.jpg");  /* coloque essa imagem em img/ */
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+
+#title-block-header .title,
+#title-block-header .subtitle {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+}
+
+/* 3. Botões mais arredondados e um pouco maiores */
+.btn {
+  border-radius: 999px;       /* bem "pill" */
+  padding: 0.4rem 1.1rem;
+  font-weight: 500;
+}
+
+/* Ajustar o botão primary pro verde principal */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--bs-primary);
+  color: #ffffff;
+}
