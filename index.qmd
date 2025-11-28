@@ -4,28 +4,37 @@ subtitle: ""
 format:
   html:
     title-block-banner: true
+editor: 
+  markdown: 
+    wrap: 100
 ---
 
-
-::: {.columns}
-::: {.column width="30%"}
+::: columns
+::: {.column width="20%"}
 ![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
 :::
 
-::: {.column width="70%"}
+::: {.column width="90%"}
 ### Hi, I'm Vitor 👋
 
-I am a postdoctoral researcher in Ecology at [Your Institution], studying how **insularity** affects seed dispersal, interaction networks, and community structure in [your study systems].
+I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to
+persist in extreme environments. My research integrates evolutionary, functional, and spatial
+ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to
+understand how ecological and evolutionary processes interact across scales in space and time.
 
 In my work, I integrate:
 
-- field sampling and experiments  
-- statistical analysis and modelling in **R**  
-- open and reproducible workflows (code + data)
+-   field sampling and experiments
 
-[CV / Lattes](LINK_LATTES){.btn .btn-primary .me-2}
-[Google Scholar](LINK_SCHOLAR){.btn .btn-outline-primary .me-2}
-[GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .me-2}
-[ORCID](LINK_ORCID){.btn .btn-outline-secondary}
+-   long term studies
+
+-   laboratory experiments and trait measurements
+
+-   statistical analysis and modelling in **R**\
+
+[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .me-2} [Google
+Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary
+.me-2} [GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .me-2}
+[ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary}
 :::
 :::
