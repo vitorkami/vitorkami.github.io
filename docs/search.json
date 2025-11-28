@@ -16,9 +16,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Vitor de Andrade Kamimura",
     "section": "",
-    "text": "Vitor de Andrade Kamimura\nPlant Ecologist 🌱\nI am a plant ecologist captivated by the beauty and diversity of tropical ecosystems."
+    "text": "::: {.column width30%“} \n\n\n\nHi, I’m Vitor 👋\nI am a postdoctoral researcher in Ecology at [Your Institution], studying how insularity affects seed dispersal, interaction networks, and community structure in [your study systems].\nIn my work, I integrate:\n\nfield sampling and experiments\n\nstatistical analysis and modelling in R\n\nopen and reproducible workflows (code + data)\n\nCV / Lattes Google Scholar GitHub ORCID\n\n\n:::"
+  },
+  {
+    "objectID": "fieldwork.html",
+    "href": "fieldwork.html",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Aqui você pode colocar:\n\nsistemas que você amostra (inselbergs, cerrados, florestas, etc.)\nregiões (estado, país)\numa ideia das campanhas (anos, objetivos)\nfotos e legendas\n\n\n\n\nInselbergs em [região], focando em [grupo/tipo de interação]\nÁreas de cerrado em [região], estudando [tema]\n\n\n\n\n\n\n\nDescrição da foto 1\n\n\n\n\n\nDescrição da foto 2\n\n\n(Você pode criar uma pastinha img/ na raiz do projeto e colocar as fotos lá.)\n\n\n\n\n2023–2025: campanhas em [local], focando em [pergunta]\nTrabalho com [equipes/grupos] em [projetos]"
+  },
+  {
+    "objectID": "fieldwork.html#sistemas-de-estudo",
+    "href": "fieldwork.html#sistemas-de-estudo",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Inselbergs em [região], focando em [grupo/tipo de interação]\nÁreas de cerrado em [região], estudando [tema]"
+  },
+  {
+    "objectID": "fieldwork.html#fotos-de-campo-exemplos",
+    "href": "fieldwork.html#fotos-de-campo-exemplos",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Descrição da foto 1\n\n\n\n\n\nDescrição da foto 2\n\n\n(Você pode criar uma pastinha img/ na raiz do projeto e colocar as fotos lá.)"
+  },
+  {
+    "objectID": "fieldwork.html#notas-de-campo",
+    "href": "fieldwork.html#notas-de-campo",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "2023–2025: campanhas em [local], focando em [pergunta]\nTrabalho com [equipes/grupos] em [projetos]"
   },
   {
     "objectID": "research.html",
@@ -33,6 +61,27 @@
     "title": "Research",
     "section": "",
     "text": "Details about my research will go here."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "Nesta página você encontra links para códigos e repositórios relacionados aos meus artigos e projetos.\n\n\n\nHow does insularity shape plant dispersal and reproductive interactions on inselbergs?\nRepositório com scripts em R para análises e figuras:\nGitHub – insularity-dispersal-plant-2025\nOutro artigo / projeto\nGitHub – nome-do-repo\n\n\n\n\n\nPacotes, funções ou tutoriais em R que você quiser destacar.\nEx: GitHub – ecological-models-utils"
+  },
+  {
+    "objectID": "code.html#códigos-por-manuscrito",
+    "href": "code.html#códigos-por-manuscrito",
+    "title": "Code",
+    "section": "",
+    "text": "How does insularity shape plant dispersal and reproductive interactions on inselbergs?\nRepositório com scripts em R para análises e figuras:\nGitHub – insularity-dispersal-plant-2025\nOutro artigo / projeto\nGitHub – nome-do-repo"
+  },
+  {
+    "objectID": "code.html#outros-projetos-de-código",
+    "href": "code.html#outros-projetos-de-código",
+    "title": "Code",
+    "section": "",
+    "text": "Pacotes, funções ou tutoriais em R que você quiser destacar.\nEx: GitHub – ecological-models-utils"
   },
   {
     "objectID": "publications.html",

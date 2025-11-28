@@ -1,25 +1,12 @@
----
-title: "Vitor de Andrade Kamimura"
-subtitle: "Ecologist and postdoctoral researcher"
-format:
-  html:
-    title-block-banner: true
----
-
-::: {style="margin-bottom: 1.5rem;"}
-Ecologist interested in how **insularity**,  and **community dynamics** shape biodiversity in rocky outcrops and other Neotropical ecosystems.  
-I combine **intensive fieldwork** with **statistical modelling in R**, with a focus on reproducible research.
+::: {.columns}
+::: {.column width30%"}
+![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
 :::
 
-::: {layout="columns"}
-::: {width="30%"}
-![Profile photo](profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
-:::
-
-::: {width="70%"}
+::: {.column width="70%"}
 ### Hi, I'm Vitor 👋
 
-I am a postdoctoral researcher in Ecology at [Your Institution] (update this), studying how **insularity** affects seed dispersal, interaction networks, and community structure in [your study systems: inselbergs, rocky outcrops, islands of vegetation, etc.].
+I am a postdoctoral researcher in Ecology at [Your Institution], studying how **insularity** affects seed dispersal, interaction networks, and community structure in [your study systems].
 
 In my work, I integrate:
 
@@ -27,43 +14,9 @@ In my work, I integrate:
 - statistical analysis and modelling in **R**  
 - open and reproducible workflows (code + data)
 
-::: {style="margin-top: 1rem;"}
 [CV / Lattes](LINK_LATTES){.btn .btn-primary .me-2}
 [Google Scholar](LINK_SCHOLAR){.btn .btn-outline-primary .me-2}
 [GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .me-2}
 [ORCID](LINK_ORCID){.btn .btn-outline-secondary}
 :::
 :::
-:::
-
----
-
-## Research interests
-
-### 🌱 Insularity and community dynamics
-
-How habitat islands (e.g., rocky outcrops / inselbergs) influence:
-
-- species composition and community structure  
-- colonization–extinction dynamics  
-- connectivity between habitat patches  
-
-[Read more in Research](research.qmd)
-
-
----
-
-### 📊 Ecological modelling in R
-
-- Linear and mixed-effects models  
-- Community and network models  
-- Reproducible workflows: code and data released on [GitHub](https://github.com/vitorkami)  
-  and linked to each paper in [Publications](publications.qmd)
-
----
-
-## Where to go next
-
-- Looking for my papers? → See [Publications](publications.qmd)  
-- Interested in code and reproducible analyses? → Visit [Code](code.qmd)  
-- Want a more detailed bio? → See [About](about.qmd)
