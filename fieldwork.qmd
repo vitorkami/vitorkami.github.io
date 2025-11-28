@@ -2,29 +2,31 @@
 title: "Fieldwork"
 ---
 
-# Fieldwork
+# Fieldwork and study systems
 
-Aqui você pode colocar:
+My fieldwork spans a wide range of Neotropical ecosystems, from humid forests to seasonally dry and open vegetation, including:
 
-- sistemas que você amostra (inselbergs, cerrados, florestas, etc.)
-- regiões (estado, país)
-- uma ideia das campanhas (anos, objetivos)
-- fotos e legendas
+-   **Atlantic Rainforest** – from lowland to montane forests along elevational gradients\
+-   **Amazonian forests** – intact and human‑modified tropical forests\
+-   **Cerrado** – savanna and forest–savanna transitions\
+-   **Caatinga** – seasonally dry tropical forests and shrublands\
+-   **Amazonian cangas** – ferruginous rocky outcrops under extreme edaphic and climatic conditions\
+-   **Inselbergs** – both continental and coastal/maritime rocky outcrops, hosting highly specialized and often endemic plant communities
 
-## Sistemas de estudo
+Across these systems, I combine vegetation surveys, demographic monitoring, experiments and trait measurements to understand how environmental gradients, disturbance and insularity shape plant communities and plant interactions.
 
-- Inselbergs em [região], focando em [grupo/tipo de interação]
-- Áreas de cerrado em [região], estudando [tema]
+------------------------------------------------------------------------
 
-## Fotos de campo (exemplos)
+## Fieldwork video
 
-![Descrição da foto 1](img/campo1.jpg)
+Below is a short video (in Portuguese) presenting some of the ecosystems and questions that motivate my fieldwork.
 
-![Descrição da foto 2](img/campo2.jpg)
-
-*(Você pode criar uma pastinha `img/` na raiz do projeto e colocar as fotos lá.)*
-
-## Notas de campo
-
-- 2023–2025: campanhas em [local], focando em [pergunta]
-- Trabalho com [equipes/grupos] em [projetos]
+::: video-container
+<iframe
+    src="https://www.youtube.com/embed/ZMv546Z8O3w"
+    title="Fieldwork video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen> </iframe>
+:::
