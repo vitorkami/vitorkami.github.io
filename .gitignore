@@ -1,2 +1,14 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# Arquivos do R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Saída antiga do site (não usamos mais)
+_site/
+
+# Arquivos do macOS
+.DS_Store
