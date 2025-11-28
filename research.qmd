@@ -1,8 +1,146 @@
 ---
 title: "Research"
 ---
+## Research projects
 
-## My Research
+### 2023 – present · Center for Research on Biodiversity and Climate Change (CEPID)
 
-Details about my research will go here.
+**Role:** Researcher  
+**Funding:** São Paulo Research Foundation (FAPESP)
+
+This long-term research center addresses the unprecedented loss of biodiversity and the accelerating threats from climate and environmental change. The CEPID brings together leading research groups working on tropical biodiversity conservation and human-driven change to understand how habitat loss, fragmentation, defaunation, invasive species and climate extremes jointly erode biodiversity and ecosystem functions. The center aims to develop nature-based solutions and adaptation and mitigation strategies, framed by the UN Sustainable Development Goals (SDGs 15 – Life on land and 13 – Climate action), while also advancing education and gender equality (SDGs 4 and 5). The CEPID positions São Paulo as a hub for global collaborations on biodiversity and climate change research.
+
+---
+
+### 2023 – present · Ecology and evolution of plants in insular environments: the origin of the flora of Alcatrazes Island (São Sebastião, SP)
+
+**Role:** Researcher  
+**Funding:** São Paulo Research Foundation (FAPESP)
+
+This project investigates the ecological and evolutionary processes shaping plant diversity on Brazilian coastal islands, with a focus on Alcatrazes Island in southeastern Brazil. By combining floristic inventories, biogeographical analyses, phylogenetic and functional diversity metrics, and genetic data, the project addresses: (1) patterns of vascular plant diversity and vegetation types on Alcatrazes; (2) biogeographic relationships between islands and coastal habitats; (3) colonization and speciation events; (4) functional shifts (e.g. size, reproductive systems) between continental and insular populations; (5) gene flow and genetic differentiation across island–continent systems; and (6) potential cases of sympatric speciation on islands. The project uses insular systems as model environments to understand ecological and evolutionary processes in highly diverse and climate-vulnerable Neotropical ecosystems.
+
+---
+
+### 2023 – present · Processes and mechanisms driving the dynamics and functioning of megadiverse tropical forest communities
+
+**Role:** Principal Investigator  
+**Funding:** São Paulo Research Foundation (FAPESP – fellowship)
+
+This project evaluates how intraspecific and interspecific spatial aggregation and niche differentiation affect coexistence and fitness in tropical tree communities, and how extreme climatic events alter forest functioning. Using spatially explicit models and a unique demographic dataset of ~25,000 adult trees monitored over 12 years in 13 communities along an elevational gradient in the Atlantic Forest, the project assesses: (i) how diversity relates to spatial aggregation patterns; (ii) functional dissimilarity among neighbouring individuals; (iii) the role of local phylogenetic diversity for species coexistence and individual performance; and (iv) how competition and environmental stress (including extreme drought) interact to shape demographic rates. The results aim to improve predictions of climate-change impacts on megadiverse forest dynamics and ecosystem functioning.
+
+---
+
+### 2022 – 2023 · Rare, endemic and threatened plants of Carajás National Forest: ecological and evolutionary studies for conservation
+
+**Role:** Researcher  
+**Funding:** São Paulo Research Foundation (FAPESP)
+
+This project uses population viability analyses (PVA) to support conservation planning for two endemic and threatened plant species from the Carajás region: *Daphnopsis filipedunculata* and *Ipomoea cavalcantei*. By combining demographic monitoring across distinct geofacies with habitat-based scenarios of population reduction, the project evaluates how survival, growth and reproduction determine long-term extinction risk under different forms of habitat loss. The results provide key information for assessing extinction risk and designing evidence-based management and conservation strategies.
+
+---
+
+### 2021 – 2021 · Biodiversity monitoring program after the Brumadinho dam failure (Córrego do Feijão mine, Minas Gerais, Brazil)
+
+**Role:** Researcher  
+**Funding:** Various partners
+
+This monitoring program was established after the collapse of the B1 tailings dam at the Córrego do Feijão iron ore mine (Brumadinho, MG). It addressed three overarching questions: (1) how distance from the impact and time since the disaster affect community structure, population dynamics and ecosystem functioning along the Paraopeba river basin; (2) whether contaminant levels in different environmental compartments are elevated in impacted areas and causing toxicity in organisms; and (3) how restoration actions interact with biotic components, populations, communities and ecological processes affected by the dam failure.
+
+---
+
+### 2018 – 2019 · Structure and diversity of trees along a vertical temperature gradient in the Atlantic Rainforest
+
+**Role:** Researcher  
+**Funding:** CAPES – Coordination for the Improvement of Higher Education Personnel
+
+This project explored how tree demographic rates can be predicted from functional traits along an elevational temperature gradient in the Atlantic Forest. It combined new trait datasets with machine learning methods within taxonomic, functional and phylogenetic frameworks. By explicitly considering trait interactions and environmental context, the project aimed to improve trait-based predictions of species performance and to better understand the ecological processes underlying diversity patterns and ecosystem functioning in megadiverse forests.
+
+---
+
+### 2016 – 2020 · Revisiting diversification processes: coupling ecological and evolutionary approaches to tree communities across spatial scales
+
+**Role:** Principal Investigator (PhD project)
+
+This project integrated taxonomic, functional, phylogenetic and co-occurrence approaches to describe variation in tree diversity along a vertical temperature gradient in the Atlantic Forest. It aimed to disentangle the processes structuring communities at multiple spatial scales, from local assemblages to regional species pools, assessing how diversification history and contemporary ecological filters jointly shape diversity–elevation relationships.
+
+---
+
+### 2014 – 2016 · Spatially structured ecological processes in a megadiverse tropical forest
+
+**Role:** Researcher  
+**Funding:** CNPq – National Council for Scientific and Technological Development
+
+Using a network of 14 permanent 1-ha plots along an altitudinal gradient (0–1,000 m) of Atlantic Ombrophilous Dense Forest, this project assessed how spatial and temporal heterogeneity influences forest dynamics. It examined variation in vital rates (mortality, recruitment, growth), biomass stocks and population fluctuations over a decade, including the effects of extreme climatic events. The project investigated density-dependent mortality and growth, intra- and interspecific competition, and how demographic rates vary across spatial and temporal scales in response to environmental stochasticity.
+
+---
+
+### 2013 – 2019 · BIOTA & NERC-UK ECOFOR: Biodiversity and ecosystem functioning in degraded and recovering Amazonian and Atlantic Forests
+
+**Role:** Researcher  
+**Funding:** FAPESP, NERC-UK and partners
+
+This large collaborative project investigated how forest degradation (including selective logging, fire and fragmentation) affects biodiversity, carbon stocks and ecosystem services in Amazonian and Atlantic forests. By establishing networks of intensive study sites and landscape-scale plot systems along gradients from intact to heavily modified forests, ECOFOR provided an integrated, multi-scale view of how human-modified tropical forests function, and how changes in plant and bird communities translate into altered ecosystem processes.
+
+---
+
+### 2013 – 2018 · Upper montane Atlantic Rainforest: floristics, structure and distribution in Serra do Mar State Park (São Paulo, Brazil)
+
+**Role:** Researcher  
+**Funding:** FAPESP – São Paulo Research Foundation
+
+This project focused on the composition, structure and distribution of upper montane Atlantic Rainforest (cloud forest) within Serra do Mar State Park. It combined comprehensive floristic surveys (across multiple vegetation strata) and detailed forest structure analyses in 2 ha of cloud forest with data from 13 additional plots along an altitudinal gradient. The project assessed richness, diversity and similarity across forest types, and related tree species distribution to environmental variables such as soils and topography.
+
+---
+
+### 2012 – 2018 · PELD – Functional Gradient of Atlantic Ombrophilous Dense Forest
+
+**Role:** Researcher  
+
+Within the Brazilian Long-Term Ecological Research (PELD) program, this site focuses on the composition, structure, dynamics and functioning of Atlantic Ombrophilous Dense Forest across functional gradients in Serra do Mar State Park. The network of permanent plots supports long-term monitoring of tree communities, biomass and ecosystem processes across coastal to montane environments.
+
+---
+
+### 2010 – 2012 · Floristic composition and structure of Atlantic Ombrophilous Dense Forest (Picinguaba and Santa Virgínia, Serra do Mar State Park, SP)
+
+**Role:** Researcher  
+
+This project surveyed the floristic composition and forest structure of Atlantic Rainforest in two nuclei (Picinguaba and Santa Virgínia) of Serra do Mar State Park, São Paulo. It provided baseline data for species richness, community structure and phytosociology along environmental gradients within these protected areas.
+
+---
+
+### 2005 – 2009 · Floristic composition, structure and functioning of Atlantic Ombrophilous Dense Forest (Picinguaba and Santa Virgínia, Serra do Mar State Park, SP)
+
+**Role:** Undergraduate research student  
+
+Early-career project focused on the floristic composition, structure and functioning of Atlantic Ombrophilous Dense Forest in Picinguaba and Santa Virgínia. It contributed to establishing long-term plots and datasets that have since supported multiple ecological and conservation studies in the region.
+
+---
+
+## Journal reviewing
+
+I regularly serve as a reviewer for scientific journals in ecology, plant sciences and biodiversity conservation, including:
+
+- **Journal of Tropical Ecology** – 2025–present  
+- **BMC Plant Biology** – 2024–present  
+- **Journal of Arid Environments** – 2023–present  
+- **Biodiversity and Conservation** – 2023–present  
+- **Ecoscience** – 2023–present  
+- **Ecology and Evolution** – 2023–present  
+- **Ecology** – 2022–present  
+- **Southern Forests** – 2022–present  
+- **International Journal of Agronomy** – 2022–present  
+- **Journal of Tropical Forest Science** – 2022–present  
+- **Plants, People, Planet** – 2022–present  
+- **Biota Neotropica** – 2022–present  
+- **Plant Ecology** – 2021–present  
+- **Journal of Vegetation Science** – 2021–present  
+- **Forest Ecosystems** – 2021–present  
+- **Chiang Mai University Journal of Natural Sciences** – 2019–present  
+- **Folia Geobotanica** – 2019–present  
+- **Journal of Biogeography** – 2018–present  
+- **NATIVA** – 2018–present  
+- **Annals of Forest Science** – 2018–present  
+- **HOLOS Environment** – reviewer in 2017  
+- **Acta Botanica Brasilica** – reviewer in 2016
+
 
