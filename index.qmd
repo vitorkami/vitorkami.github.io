@@ -1,6 +1,6 @@
 ---
-title: "Vitor de Andrade Kamimura"
-subtitle: "Ecologist and postdoctoral researcher"
+title: ""
+subtitle: ""
 format:
   html:
     title-block-banner: true
