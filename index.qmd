@@ -32,9 +32,9 @@ In my work, I integrate:
 
 -   statistical analysis and modelling in **R**\
 
-[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .me-2} [Google
-Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary
-.me-2} [GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .me-2}
+[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .me-2}
+[Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-primary .me-2} 
 [ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary}
+[GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary}
 :::
 :::
