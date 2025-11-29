@@ -175,9 +175,20 @@
 
 .pub-item {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto; /* texto | figura à direita */
+  grid-template-columns: minmax(0, 1fr) auto;  /* texto | figura */
   column-gap: 1rem;
   align-items: flex-start;
+
+  border-bottom: 1px solid #dddddd;  /* linha cinza clara */
+  padding-bottom: 0.75rem;           /* espaço antes da linha */
+  margin-bottom: 0.75rem;            /* espaço depois da linha */
+}
+
+/* Remove a linha do último item da lista */
+.pub-list .pub-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .pub-title {
@@ -207,10 +218,13 @@
 
 /* Thumb da figura do artigo */
 .pub-thumb {
-  max-width: 180px;
+  max-width: 200px;    /* antes era 140; pode testar 180, 200, 220 */
+  width: 100%;
+  height: auto;
   border-radius: 4px;
   display: block;
 }
+
 
 /* Responsivo: em tela estreita, figura vai pra baixo do texto */
 @media (max-width: 768px) {
