@@ -24,3 +24,4 @@ format:
     theme: minty
     css: styles.css
     include-in-header: icons.html
+    page-layout: full
