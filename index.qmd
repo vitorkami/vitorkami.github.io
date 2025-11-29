@@ -9,12 +9,8 @@ editor:
     wrap: 100
 ---
 
-::: columns
-::: {.column width="20%"}
-![](img/vitor-profile.jpg){style="border-radius: 50%; width: 100%; max-width: 200px;"}
-:::
-
-::: {.column width="90%"}
+::: {.columns}
+::: {.column width="65%"}
 ### Hi, I'm Vitor 👋
 
 I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to
@@ -24,17 +20,19 @@ understand how ecological and evolutionary processes interact across scales in s
 
 In my work, I integrate:
 
--   field sampling and experiments
+- field sampling and experiments  
+- long-term monitoring  
+- laboratory experiments and trait measurements  
+- statistical analysis and modelling in **R**  
 
--   long term studies
+[<i class="bi bi-file-earmark-text"></i> CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .btn-sm .me-2}
+[<i class="bi bi-mortarboard"></i> Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary .btn-sm .me-2}  
+[<i class="bi bi-person-vcard"></i> ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary .btn-sm .me-2}
+[<i class="bi bi-github"></i> GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .btn-sm .me-2}
+[<i class="bi bi-r-square"></i> ResearchGate](https://www.researchgate.net/){.btn .btn-outline-secondary .btn-sm}
+:::
 
--   laboratory experiments and trait measurements
-
--   statistical analysis and modelling in **R**\
-
-[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .me-2}
-[Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-primary .me-2} 
-[ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary}
-[GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary}
+::: {.column width="35%"}
+![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; max-width: 220px; display: block; margin-left: auto; margin-right: auto;"}
 :::
 :::
