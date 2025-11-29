@@ -218,7 +218,7 @@
 
 /* Thumb da figura do artigo */
 .pub-thumb {
-  max-width: 240px;    /* antes era 140; pode testar 180, 200, 220 */
+  max-width: 300px;    /* antes era 140; pode testar 180, 200, 220 */
   width: 100%;
   height: auto;
   border-radius: 4px;
