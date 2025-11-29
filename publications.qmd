@@ -18,7 +18,7 @@ Aguirre-Gutiérrez, J.; Díaz, S.; Rifai, S. W.; Corral-Rivas, J. J.; Nava-Miran
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-01.png){.pub-thumb}
+![https://www.science.org/doi/10.1126/science.adl5414](img/pubs/Science_2025.jpg){.pub-thumb}
 </div>
 :::
 
@@ -37,7 +37,7 @@ Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, 
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-02.png){.pub-thumb}
+![https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R](img/pubs/JVS_2025.jpg){.pub-thumb}
 </div>
 :::
 
@@ -56,7 +56,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-03.png){.pub-thumb}
+![](img/pubs/pub-03.jpg){.pub-thumb}
 </div>
 :::
 
@@ -75,7 +75,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-04.png){.pub-thumb}
+![](img/pubs/pub-04.jpg){.pub-thumb}
 </div>
 :::
 
@@ -94,7 +94,7 @@ Sachetti, W. L.; <strong>Kamimura, V. de A.</strong>; Mayer, J. L. S.; Arida, B.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-05.png){.pub-thumb}
+![](img/pubs/pub-05.jpg){.pub-thumb}
 </div>
 :::
 
@@ -113,7 +113,7 @@ Sabino, G. P.; Pinheiro, F.; Koch, I.; de Azevedo, M. L.; Tavares, M. M.; Franci
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-06.png){.pub-thumb}
+![](img/pubs/pub-06.jpg){.pub-thumb}
 </div>
 :::
 
@@ -132,7 +132,7 @@ Bialic-Murphy, L.; McElderry, R. M.; Esquivel-Muelbert, A.; van den Hoogen, J.; 
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-07.png){.pub-thumb}
+![](img/pubs/pub-07.jpg){.pub-thumb}
 </div>
 :::
 
@@ -151,7 +151,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-08.png){.pub-thumb}
+![](img/pubs/pub-08.jpg){.pub-thumb}
 </div>
 :::
 
@@ -170,7 +170,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-09.png){.pub-thumb}
+![](img/pubs/pub-09.jpg){.pub-thumb}
 </div>
 :::
 
@@ -189,7 +189,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-10.png){.pub-thumb}
+![](img/pubs/pub-10.jpg){.pub-thumb}
 </div>
 :::
 
@@ -208,7 +208,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-11.png){.pub-thumb}
+![](img/pubs/pub-11.jpg){.pub-thumb}
 </div>
 :::
 
@@ -227,7 +227,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-12.png){.pub-thumb}
+![](img/pubs/pub-12.jpg){.pub-thumb}
 </div>
 :::
 
@@ -246,7 +246,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-13.png){.pub-thumb}
+![](img/pubs/pub-13.jpg){.pub-thumb}
 </div>
 :::
 
@@ -265,7 +265,7 @@ Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.;
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-14.png){.pub-thumb}
+![](img/pubs/pub-14.jpg){.pub-thumb}
 </div>
 :::
 
@@ -284,7 +284,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Konopczyk, R.;
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-15.png){.pub-thumb}
+![](img/pubs/pub-15.jpg){.pub-thumb}
 </div>
 :::
 
@@ -303,7 +303,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Monteiro, R
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-16.png){.pub-thumb}
+![](img/pubs/pub-16.jpg){.pub-thumb}
 </div>
 :::
 
@@ -322,7 +322,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Monteiro, R. (2019).
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-17.png){.pub-thumb}
+![](img/pubs/pub-17.jpg){.pub-thumb}
 </div>
 :::
 
@@ -341,7 +341,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-18.png){.pub-thumb}
+![](img/pubs/pub-18.jpg){.pub-thumb}
 </div>
 :::
 
@@ -360,7 +360,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-19.png){.pub-thumb}
+![](img/pubs/pub-19.jpg){.pub-thumb}
 </div>
 :::
 
@@ -379,7 +379,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-20.png){.pub-thumb}
+![](img/pubs/pub-20.jpg){.pub-thumb}
 </div>
 :::
 
@@ -398,7 +398,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-21.png){.pub-thumb}
+![](img/pubs/pub-21.jpg){.pub-thumb}
 </div>
 :::
 

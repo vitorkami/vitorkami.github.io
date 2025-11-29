@@ -21,7 +21,7 @@ understand how ecological and evolutionary processes interact across scales in s
 In my work, I integrate:
 
 - field sampling and experiments  
-- long-term monitoring  
+- long-term monitoring
 - laboratory experiments and trait measurements  
 - statistical analysis and modelling in **R**  
 
