@@ -25,14 +25,24 @@ In my work, I integrate:
 - laboratory experiments and trait measurements  
 - statistical analysis and modelling in **R**  
 
-[<i class="bi bi-file-earmark-text"></i> CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .btn-sm .me-2}
-[<i class="bi bi-mortarboard"></i> Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary .btn-sm .me-2}  
-[<i class="bi bi-person-vcard"></i> ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary .btn-sm .me-2}
-[<i class="bi bi-github"></i> GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .btn-sm .me-2}
-[<i class="bi bi-r-square"></i> ResearchGate](https://www.researchgate.net/){.btn .btn-outline-secondary .btn-sm}
+[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .btn-sm .me-2}
+[Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary .btn-sm .me-2}  
+[ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary .btn-sm .me-2}
+[GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .btn-sm .me-2}
+[ResearchGate](https://www.researchgate.net/){.btn .btn-outline-secondary .btn-sm}
 :::
 
 ::: {.column width="35%"}
-![Profile photo](img/vitor-profile.jpg){style="border-radius: 50%; max-width: 220px; display: block; margin-left: auto; margin-right: auto;"}
+![Profile photo](img/vitor-profile.jpg){.profile-photo}
+:::
+:::
+
+---
+
+::: {.home-bottom-banner}
+::: {.banner-content}
+## From Atlantic and Amazonian forests to inselbergs
+
+My fieldwork ranges from Atlantic and Amazonian forests to Cerrado, Caatinga, Amazonian cangas and both continental and coastal inselbergs, where I study how environmental gradients, disturbance and insularity shape plant communities and interactions.
 :::
 :::

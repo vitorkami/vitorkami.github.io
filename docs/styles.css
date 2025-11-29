@@ -34,6 +34,32 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,0.7);
 }
 
+
+/* 2. Faixa com imagem de fundo no final da Home */
+.home-bottom-banner {
+  background-image: url("img/down-ecology.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 3rem 1.5rem;
+  margin-top: 3rem;
+}
+
+.home-bottom-banner h2,
+.home-bottom-banner p {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+}
+
+/* Opcional: deixar o texto centralizado nessa faixa */
+.home-bottom-banner .banner-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
 /* 3. Botões mais arredondados e um pouco maiores */
 .btn {
   border-radius: 999px;       /* bem "pill" */
@@ -77,10 +103,9 @@ body {
 
 /* Tamanho base do texto */
 body {
-  font-size: 0.95rem;  /* 1.0 é o padrão; 0.9–0.95 deixa mais compacto */
+  font-size: 0.95rem;
 }
 
-/* Títulos um pouco menores também */
 h1 {
   font-size: 1.9rem;
 }
@@ -89,9 +114,6 @@ h2 {
 }
 h3 {
   font-size: 1.3rem;
-}
-h4 {
-  font-size: 1.1rem;
 }
 
 /* Navbar um pouco mais discreta */
@@ -112,4 +134,12 @@ h4 {
 /* Ícones dentro dos botões um pouco menores */
 .btn i {
   font-size: 0.9em;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  max-width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
