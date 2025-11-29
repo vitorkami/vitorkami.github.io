@@ -38,7 +38,7 @@ Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, 
 </div>
 
 <div class="pub-figure">
-[![](img/pubs/JVS_2025.jpg){.pub-thumb} (https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R)
+[![](img/pubs/JVS_2025.jpg){.pub-thumb}](https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R)
 </div>
 :::
 
