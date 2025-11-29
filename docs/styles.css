@@ -1,159 +1,166 @@
-/* 1. Cores principais em tons de verde (Bootstrap variables) */
-:root {
-  --bs-primary: #1b5e20;         /* verde escuro */
-  --bs-link-color: #2e7d32;      /* verde médio */
-  --bs-link-hover-color: #1b5e20;
+  /* 1. Cores principais em tons de verde (Bootstrap variables) */
+  :root {
+    --bs-primary: #1b5e20;         /* verde escuro */
+    --bs-link-color: #2e7d32;      /* verde médio */
+    --bs-link-hover-color: #1b5e20;
+  }
+  
+  /* Fundo geral mais claro/esverdeado */
+  body {
+    background-color: #FFFF99;     /* amarelo bem clarinho */
+  }
+  
+  /* Navbar em tom de verde escuro */
+  .navbar {
+    background-color: #1b5e20 !important;
+  }
+  
+  .navbar a.nav-link,
+  .navbar-brand {
+    color: #ffffff !important;
+  }
+  
+  /* 2. Foto de fundo no título da página (title block) */
+  #title-block-header {
+    background-image: url("img/bg-ecology.jpg");  /* coloque essa imagem em img/ */
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+  }
+  
+  #title-block-header .title,
+  #title-block-header .subtitle {
+    color: #ffffff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+  }
+  
+  
+  /* 2. Faixa com imagem de fundo no final da Home */
+  .home-bottom-banner {
+    background-image: url("img/down-ecology.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 3rem 1.5rem;
+    margin-top: 3rem;
+  }
+  
+  .home-bottom-banner h2,
+  .home-bottom-banner p {
+    color: #ffffff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+  }
+  
+  /* Opcional: deixar o texto centralizado nessa faixa */
+  .home-bottom-banner .banner-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  
+  
+  /* 3. Botões mais arredondados e um pouco maiores */
+  .btn {
+    border-radius: 999px;       /* bem "pill" */
+    padding: 0.4rem 1.1rem;
+    font-weight: 500;
+  }
+  
+  /* Ajustar o botão primary pro verde principal */
+  .btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+  }
+  
+  .btn-outline-primary {
+    color: var(--bs-primary);
+    border-color: var(--bs-primary);
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: var(--bs-primary);
+    color: #ffffff;
+  }
+  
+  
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 1.5rem 0;
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Tamanho base do texto */
+  body {
+    font-size: 0.95rem;
+  }
+  
+  h1 {
+    font-size: 1.9rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  h3 {
+    font-size: 1.3rem;
+  }
+  
+  /* Navbar um pouco mais discreta */
+  .navbar {
+    font-size: 0.9rem;
+  }
+  
+  /* Botões mais arredondados, menores e com fonte menor */
+  .btn {
+    border-radius: 999px;
+    padding: 0.25rem 0.9rem;
+    font-size: 0.85rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem; /* espaço entre ícone e texto */
+  }
+  
+  /* Ícones dentro dos botões um pouco menores */
+  .btn i {
+    font-size: 0.9em;
+  }
+  
+  /* Ícones dos botões de links na Home */
+.link-icon {
+  height: 14px;      /* ajusta o tamanho do ícone */
+  width: auto;
+  object-fit: contain;
 }
-
-/* Fundo geral mais claro/esverdeado */
-body {
-  background-color: #f4f9f4;     /* verde bem clarinho */
-}
-
-/* Navbar em tom de verde escuro */
-.navbar {
-  background-color: #1b5e20 !important;
-}
-
-.navbar a.nav-link,
-.navbar-brand {
-  color: #ffffff !important;
-}
-
-/* 2. Foto de fundo no título da página (title block) */
-#title-block-header {
-  background-image: url("img/bg-ecology.jpg");  /* coloque essa imagem em img/ */
-  background-size: cover;
-  background-position: center;
-  color: #ffffff;
-}
-
-#title-block-header .title,
-#title-block-header .subtitle {
-  color: #ffffff;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
-}
-
-
-/* 2. Faixa com imagem de fundo no final da Home */
-.home-bottom-banner {
-  background-image: url("img/down-ecology.jpg");
-  background-size: cover;
-  background-position: center;
-  color: #ffffff;
-  padding: 3rem 1.5rem;
-  margin-top: 3rem;
-}
-
-.home-bottom-banner h2,
-.home-bottom-banner p {
-  color: #ffffff;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
-}
-
-/* Opcional: deixar o texto centralizado nessa faixa */
-.home-bottom-banner .banner-content {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-
-
-/* 3. Botões mais arredondados e um pouco maiores */
-.btn {
-  border-radius: 999px;       /* bem "pill" */
-  padding: 0.4rem 1.1rem;
-  font-weight: 500;
-}
-
-/* Ajustar o botão primary pro verde principal */
-.btn-primary {
-  background-color: var(--bs-primary);
-  border-color: var(--bs-primary);
-}
-
-.btn-outline-primary {
-  color: var(--bs-primary);
-  border-color: var(--bs-primary);
-}
-
-.btn-outline-primary:hover {
-  background-color: var(--bs-primary);
-  color: #ffffff;
-}
-
-
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  margin: 1.5rem 0;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-/* Tamanho base do texto */
-body {
-  font-size: 0.95rem;
-}
-
-h1 {
-  font-size: 1.9rem;
-}
-h2 {
-  font-size: 1.6rem;
-}
-h3 {
-  font-size: 1.3rem;
-}
-
-/* Navbar um pouco mais discreta */
-.navbar {
-  font-size: 0.9rem;
-}
-
-/* Botões mais arredondados, menores e com fonte menor */
-.btn {
-  border-radius: 999px;
-  padding: 0.25rem 0.9rem;
-  font-size: 0.85rem;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem; /* espaço entre ícone e texto */
-}
-
-/* Ícones dentro dos botões um pouco menores */
-.btn i {
-  font-size: 0.9em;
-}
-
-.profile-photo {
-  border-radius: 50%;
-  max-width: 220px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Deixar o conteúdo mais à esquerda e um pouco mais largo */
-.quarto-container {
-  max-width: 100%;
-  margin: 0;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-/* Remover padding extra no main, pra não somar demais */
-main.content {
-  padding-left: 0;
-  padding-right: 0;
-}
+  
+  .profile-photo {
+    border-radius: 50%;
+    max-width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Deixar o conteúdo mais à esquerda e um pouco mais largo */
+  .quarto-container {
+    max-width: 100%;
+    margin: 0;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  /* Remover padding extra no main, pra não somar demais */
+  main.content {
+    padding-left: 0;
+    padding-right: 0;
+  }

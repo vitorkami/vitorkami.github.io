@@ -25,11 +25,12 @@ In my work, I integrate:
 - laboratory experiments and trait measurements  
 - statistical analysis and modelling in **R**  
 
-[CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .btn-sm .me-2}
-[Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary .btn-sm .me-2}  
-[ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary .btn-sm .me-2}
-[GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .btn-sm .me-2}
-[ResearchGate](https://www.researchgate.net/){.btn .btn-outline-secondary .btn-sm}
+[![](img/icons/lattes.png){.link-icon} CV / Lattes](http://lattes.cnpq.br/7485280029624432){.btn .btn-primary .btn-sm .me-2}
+[![](img/icons/google.png){.link-icon} Google Scholar](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn .btn-outline-primary .btn-sm .me-2}  
+[![](img/icons/orcid.png){.link-icon} ORCID](https://orcid.org/0000-0002-3276-5812){.btn .btn-outline-secondary .btn-sm .me-2}
+[![](img/icons/researchgate.png){.link-icon} ResearchGate](https://www.researchgate.net/profile/Vitor-Kamimura?ev=hdr_xprf){.btn .btn-outline-secondary .btn-sm}
+[![](img/icons/github.png){.link-icon} GitHub](https://github.com/vitorkami){.btn .btn-outline-secondary .btn-sm .me-2}
+
 :::
 
 ::: {.column width="35%"}
@@ -39,8 +40,3 @@ In my work, I integrate:
 
 ---
 
-::: {.home-bottom-banner}
-::: {.banner-content}
-
-:::
-:::
