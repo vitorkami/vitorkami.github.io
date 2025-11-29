@@ -33,7 +33,7 @@ In my work, I integrate:
 :::
 
 ::: {.column width="35%"}
-![Profile photo](img/vitor-profile.jpg){.profile-photo}
+![](img/vitor-profile.jpg){.profile-photo}
 :::
 :::
 
@@ -41,7 +41,7 @@ In my work, I integrate:
 
 ::: {.home-bottom-banner}
 ::: {.banner-content}
-## From Atlantic and Amazonian forests to inselbergs
+## From Atlantic and Amazonian forests to inselbergs and islands
 
 My fieldwork ranges from Atlantic and Amazonian forests to Cerrado, Caatinga, Amazonian cangas and both continental and coastal inselbergs, where I study how environmental gradients, disturbance and insularity shape plant communities and interactions.
 :::

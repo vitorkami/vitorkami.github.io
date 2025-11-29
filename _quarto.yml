@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Vitor de Andrade Kamimura"
+  title: "Vitor Kamimura"
   navbar:
     left:
       - href: index.qmd
