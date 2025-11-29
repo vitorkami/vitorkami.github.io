@@ -143,3 +143,14 @@ h3 {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Deixar o conteúdo principal mais largo em todas as páginas */
+.quarto-container {
+  max-width: 1200px; /* padrão é ~960px; pode aumentar ou até usar 100% */
+}
+
+/* Opcional: chegar mais perto da borda esquerda/direita sem ficar grudado */
+main.content {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
