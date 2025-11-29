@@ -7,7 +7,7 @@
   
   /* Fundo geral mais claro/esverdeado */
   body {
-    background-color: #FFFF99;     /* amarelo bem clarinho */
+    background-color: #FFFFCC;     /* amarelo bem clarinho */
   }
   
   /* Navbar em tom de verde escuro */
@@ -138,7 +138,7 @@
   
   /* Ícones dos botões de links na Home */
 .link-icon {
-  height: 2px;      /* ajusta o tamanho do ícone */
+  height: 8px;      /* ajusta o tamanho do ícone */
   width: auto;
   object-fit: contain;
 }
