@@ -6,7 +6,7 @@ title: "Publications"
 ::: {.pub-item}
 <div class="pub-text">
 
-[**Tropical forests in the Americas are changing too slowly to track climate change**](#){.pub-title}
+[**Tropical forests in the Americas are changing too slowly to track climate change**](https://www.science.org/doi/10.1126/science.adl5414){.pub-title}
 
 <span class="pub-authors">
 Aguirre-Gutiérrez, J.; Díaz, S.; Rifai, S. W.; Corral-Rivas, J. J.; Nava-Miranda, M. G.; González-M, R.; Hurtado-M, A. B.; Revilla, N. S.; Vilanova, E.; Almeida, E.; de Oliveira, E. A.; Alvarez-Davila, E.; Alves, L. F.; de Andrade, A. C. S.; Lola da Costa, A. C.; Vieira, S. A.; Aragão, L.; Arets, E.; Aymard C., G. A.; <strong>Kamimura, V. de A.</strong>; et al. (2025).
@@ -18,14 +18,15 @@ Aguirre-Gutiérrez, J.; Díaz, S.; Rifai, S. W.; Corral-Rivas, J. J.; Nava-Miran
 </div>
 
 <div class="pub-figure">
-![https://www.science.org/doi/10.1126/science.adl5414](img/pubs/Science_2025.jpg){.pub-thumb}
+[![](img/pubs/Science_2025.jpg){.pub-thumb}](https://www.science.org/doi/10.1126/science.adl5414)
 </div>
 :::
+
 
 ::: {.pub-item}
 <div class="pub-text">
 
-[**Islanded islands: dual isolation drives distinctive and threatened floras of Neotropical maritime inselbergs**](#){.pub-title}
+[**Islanded islands: dual isolation drives distinctive and threatened floras of Neotropical maritime inselbergs**](https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R){.pub-title}
 
 <span class="pub-authors">
 Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, M. M.; Cunha, I. M.; <strong>Kamimura, V. de A.</strong> (2025).
@@ -37,7 +38,7 @@ Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, 
 </div>
 
 <div class="pub-figure">
-![https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R](img/pubs/JVS_2025.jpg){.pub-thumb}
+[![](img/pubs/JVS_2025.jpg){.pub-thumb} (https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R)
 </div>
 :::
 

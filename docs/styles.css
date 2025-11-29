@@ -138,7 +138,7 @@
   
   /* Ícones dos botões de links na Home */
 .link-icon {
-  height: 18px;      /* ajusta o tamanho do ícone */
+  height: 32px;      /* ajusta o tamanho do ícone */
   width: auto;
   object-fit: contain;
 }
