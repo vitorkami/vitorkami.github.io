@@ -15,15 +15,20 @@
   background-color: #1b5e20 !important;
 }
 
-/* Título do site (brand) em branco */
-.navbar-brand {
-  color: #ffffff !important;
+/* Abas (links do menu) em amarelo por padrão */
+.navbar a.nav-link {
+  color: #FFFF99 !important;
+  padding: 0.25rem 0.75rem;   /* um pouquinho de padding pra permitir o "pill" */
+  border-radius: 999px;       /* borda arredondada nas abas */
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
-/* Abas (links do menu) em amarelo */
-.navbar a.nav-link {
-  color: #FFFFCC !important;  /* amarelo claro que você já usa no fundo */
+/* Destaque quando passar o mouse */
+.navbar a.nav-link:hover {
+  background-color: rgba(255, 255, 153, 0.25);  /* amarelo clarinho translúcido */
+  color: #ffffff !important;                    /* texto fica branco no hover */
 }
+
 
 .navbar .nav-link.active {
   font-weight: 600;
