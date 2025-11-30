@@ -29,3 +29,13 @@ Below is a short video presenting my fieldwork in the Atlantic Forest.
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen> </iframe>
 :::
+
+::: video-container
+<iframe
+    src="https://www.youtube.com/watch?v=WeMY_eO6q54&t=3s"
+    title="Fieldwork video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen> </iframe>
+:::
