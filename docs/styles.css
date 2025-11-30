@@ -81,14 +81,6 @@ main.content {
    3. Title block e banners
    ========================================= */
 
-/* Foto de fundo no título da página (header) */
-#title-block-header {
-  background-image: url("img/bg-ecology.jpg");
-  background-size: cover;
-  background-position: center;
-  color: #ffffff;
-}
-
 #title-block-header .title,
 #title-block-header .subtitle {
   color: #ffffff;
