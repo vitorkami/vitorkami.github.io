@@ -1,7 +1,40 @@
 ---
-title: "Home"
+title: "About me"
+subtitle: ""
+format:
+  html:
+    title-block-banner: true
+editor: 
+  markdown: 
+    wrap: 100
 ---
 
-This is the content of the Home page.
+::: {.columns}
+::: {.column width="65%"}
 
-You can put here news, highlights, whatever you want separated from the main landing page.
+#### I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to persist in extreme environments. My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time.
+
+[![](img/icons/lattes.png){.link-icon}](http://lattes.cnpq.br/7485280029624432){.btn}
+[![](img/icons/google.png){.link-icon}](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn}
+[![](img/icons/orcid.png){.link-icon}](https://orcid.org/0000-0002-3276-5812){.btn}
+[![](img/icons/researchgate.png){.link-icon}](https://www.researchgate.net/profile/Vitor-Kamimura?ev=hdr_xprf){.btn}
+[![](img/icons/github.png){.link-icon}](https://github.com/vitorkami){.btn}
+
+
+
+In my work, I integrate:
+
+- field sampling and experiments  
+- long-term monitoring
+- laboratory experiments and trait measurements  
+- statistical analysis and modelling in **R**  
+
+:::
+
+::: {.column width="35%"}
+![](img/vitor-profile.jpg){.profile-photo}
+:::
+:::
+
+---
+
