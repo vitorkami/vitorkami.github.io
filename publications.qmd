@@ -406,7 +406,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-[![](img/pubs/Fora_2017.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0367253017332255)
+[![](img/pubs/Flora_2017.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0367253017332255)
 </div>
 :::
 
