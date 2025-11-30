@@ -1,25 +1,58 @@
-  /* 1. Cores principais em tons de verde (Bootstrap variables) */
-  :root {
-    --bs-primary: #1b5e20;         /* verde escuro */
-    --bs-link-color: #2e7d32;      /* verde médio */
-    --bs-link-hover-color: #1b5e20;
-  }
-  
-  /* Fundo geral mais claro/esverdeado */
-  body {
-    background-color: #e9fcf1;     /* amarelo bem clarinho */
-  }
-  
-/* Navbar em tom de verde escuro */
-.navbar {
-  background-color: #1b5e20 !important;
+/* =========================================
+   1. Cores e base
+   ========================================= */
+
+:root {
+  --bs-primary: #1b5e20;         /* verde escuro */
+  --bs-link-color: #2e7d32;      /* verde médio */
+  --bs-link-hover-color: #1b5e20;
 }
 
-/* Título do site (Vitor Kamimura) em amarelo, como as abas */
+/* Fundo geral em tom bem claro/esverdeado */
+body {
+  background-color: #e9fcf1;
+  font-size: 0.95rem;
+}
+
+/* Tamanhos de títulos globais */
+h1 {
+  font-size: 1.9rem;
+}
+h2 {
+  font-size: 1.6rem;
+}
+h3 {
+  font-size: 1.3rem;
+}
+
+/* Container mais largo, colado à esquerda */
+.quarto-container {
+  max-width: 100%;
+  margin: 0;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Remover padding extra no main */
+main.content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* =========================================
+   2. Navbar
+   ========================================= */
+
+/* Barra de navegação verde escuro */
+.navbar {
+  background-color: #1b5e20 !important;
+  font-size: 0.9rem;
+}
+
+/* Título do site (brand) em amarelo */
 .navbar-brand {
   color: #FFFF99 !important;
 }
-
 .navbar-brand:hover {
   color: #ffffff !important;
 }
@@ -27,169 +60,159 @@
 /* Abas (links do menu) em amarelo por padrão */
 .navbar a.nav-link {
   color: #FFFF99 !important;
-  padding: 0.25rem 0.75rem;   /* um pouquinho de padding pra permitir o "pill" */
-  border-radius: 999px;       /* borda arredondada nas abas */
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;  /* pill */
   transition: background-color 0.15s ease, color 0.15s ease;
 }
 
-/* Destaque quando passar o mouse */
+/* Hover nas abas */
 .navbar a.nav-link:hover {
-  background-color: rgba(255, 255, 153, 0.25);  /* amarelo clarinho translúcido */
-  color: #ffffff !important;                    /* texto fica branco no hover */
+  background-color: rgba(255, 255, 153, 0.25);  /* amarelo translúcido */
+  color: #ffffff !important;
 }
 
-
+/* Aba ativa */
 .navbar .nav-link.active {
   font-weight: 600;
   text-decoration: underline;
 }
-  
-  /* 2. Foto de fundo no título da página (title block) */
-  #title-block-header {
-    background-image: url("img/bg-ecology.jpg");  /* coloque essa imagem em img/ */
-    background-size: cover;
-    background-position: center;
-    color: #ffffff;
-  }
-  
-  #title-block-header .title,
-  #title-block-header .subtitle {
-    color: #ffffff;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.7);
-  }
-  
-  
-  /* 2. Faixa com imagem de fundo no final da Home */
-  .home-bottom-banner {
-    background-image: url("img/down-ecology.jpg");
-    background-size: cover;
-    background-position: center;
-    color: #ffffff;
-    padding: 3rem 1.5rem;
-    margin-top: 3rem;
-  }
-  
-  .home-bottom-banner h2,
-  .home-bottom-banner p {
-    color: #ffffff;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.7);
-  }
-  
-  /* Opcional: deixar o texto centralizado nessa faixa */
-  .home-bottom-banner .banner-content {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  
-  
-  
-  /* 3. Botões mais arredondados e um pouco maiores */
-  .btn {
-    border-radius: 999px;       /* bem "pill" */
-    padding: 0.4rem 1.1rem;
-    font-weight: 500;
-  }
-  
-  /* Ajustar o botão primary pro verde principal */
-  .btn-primary {
-    background-color: var(--bs-primary);
-    border-color: var(--bs-primary);
-  }
-  
-  .btn-outline-primary {
-    color: var(--bs-primary);
-    border-color: var(--bs-primary);
-  }
-  
-  .btn-outline-primary:hover {
-    background-color: var(--bs-primary);
-    color: #ffffff;
-  }
-  
-  
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    height: 0;
-    overflow: hidden;
-    max-width: 50%;
-    margin: 1.5rem 0;
-  }
-  
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  
-  /* Tamanho base do texto */
-  body {
-    font-size: 0.95rem;
-  }
-  
-  h1 {
-    font-size: 1.9rem;
-  }
-  h2 {
-    font-size: 1.6rem;
-  }
-  h3 {
-    font-size: 1.3rem;
-  }
-  
-  /* Navbar um pouco mais discreta */
-  .navbar {
-    font-size: 0.9rem;
-  }
-  
-  /* Botões mais arredondados, menores e com fonte menor */
-  .btn {
-    border-radius: 999px;
-    padding: 0.25rem 0.9rem;
-    font-size: 0.85rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.3rem; /* espaço entre ícone e texto */
-  }
-  
-  /* Ícones dentro dos botões um pouco menores */
-  .btn i {
-    font-size: 0.9em;
-  }
-  
-  /* Ícones dos botões de links na Home */
+
+/* =========================================
+   3. Title block e banners
+   ========================================= */
+
+/* Foto de fundo no título da página (header) */
+#title-block-header {
+  background-image: url("img/bg-ecology.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+
+#title-block-header .title,
+#title-block-header .subtitle {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+}
+
+/* Título grande em caixa verde (todas as páginas) */
+.quarto-title-block .title {
+  display: inline-block;
+  background-color: rgba(27, 94, 32, 0.9);
+  color: #ffffff;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.25);
+}
+
+/* Subtítulo em caixa escura */
+.quarto-title-block .subtitle {
+  display: inline-block;
+  margin-top: 0.4rem;
+  background-color: rgba(0, 0, 0, 0.35);
+  color: #ffffff;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+}
+
+/* Faixa com imagem de fundo no final da Home */
+.home-bottom-banner {
+  background-image: url("img/down-ecology.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 3rem 1.5rem;
+  margin-top: 3rem;
+}
+
+.home-bottom-banner h2,
+.home-bottom-banner p {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+}
+
+.home-bottom-banner .banner-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* =========================================
+   4. Botões e ícones
+   ========================================= */
+
+/* Botões mais arredondados, menores e com fonte menor */
+.btn {
+  border-radius: 999px;
+  padding: 0.25rem 0.9rem;
+  font-size: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem; /* espaço entre ícone e texto */
+  font-weight: 500;
+}
+
+/* Botão primary no verde principal */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--bs-primary);
+  color: #ffffff;
+}
+
+/* Ícones dentro dos botões (caso use <i>) */
+.btn i {
+  font-size: 0.9em;
+}
+
+/* Ícones dos links na Home (Lattes, Scholar etc.) */
 .link-icon {
-  height: 36px;      /* ajusta o tamanho do ícone */
+  height: 36px;
   width: auto;
   object-fit: contain;
 }
-  
-  .profile-photo {
-    border-radius: 50%;
-    max-width: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  /* Deixar o conteúdo mais à esquerda e um pouco mais largo */
-  .quarto-container {
-    max-width: 100%;
-    margin: 0;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-  
-  /* Remover padding extra no main, pra não somar demais */
-  main.content {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  
-/* "Learn more" links na página inicial */
+
+/* Foto de perfil */
+.profile-photo {
+  border-radius: 50%;
+  max-width: 500px;  /* maior, como você pediu */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* =========================================
+   5. Vídeo responsivo
+   ========================================= */
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 50%;
+  margin: 1.5rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* =========================================
+   6. "Learn more" na Home
+   ========================================= */
 
 .learn-more {
   margin-top: 0.9rem;
@@ -212,14 +235,14 @@
   gap: 0.3rem;
   padding: 0.2rem 0.6rem;
   border-radius: 999px;
-  background-color: rgba(255, 255, 153, 0.4);  /* amarelo bem suave */
+  background-color: rgba(255, 255, 153, 0.4);
   color: #1b5e20;
   text-decoration: none;
   font-size: 0.85rem;
 }
 
 .learn-link:hover {
-  background-color: rgba(27, 94, 32, 0.08);   /* leve verde no hover */
+  background-color: rgba(27, 94, 32, 0.08);
   text-decoration: underline;
 }
 
@@ -229,75 +252,48 @@
   object-fit: contain;
 }
 
-  
-  
-/* ==== Publications list ==== */
+/* =========================================
+   7. Headings em caixas amarelas
+   ========================================= */
 
-.pub-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+/* Seções (##) em caixas amarelas discretas */
+main.content h2 {
+  display: inline-block;
+  background-color: rgba(255, 255, 153, 0.9);
+  color: #1b5e20;
+  padding: 0.25rem 0.8rem;
+  border-radius: 999px;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.15rem; /* levemente maior que o texto base */
 }
 
-/* Cada publicação em formato de "card" */
-.pub-item {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;  /* texto | figura */
-  column-gap: 1rem;
-  align-items: flex-start;
+/* Sub-seções (###) em caixas mais suaves */
+main.content h3 {
+  display: inline-block;
+  background-color: rgba(255, 255, 153, 0.6);
+  color: #1b5e20;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.02rem;
+}
 
-  padding: 0.75rem 1rem;
-  background-color: rgba(255, 255, 153, 0.45); /* amarelo claro, combinando com o site */
+/* Cards suaves para blocos de texto genéricos */
+.text-card {
+  background-color: #ffffff;
   border-radius: 8px;
-  border-left: 4px solid #1b5e20;             /* verde principal */
+  padding: 0.75rem 1rem;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  margin-bottom: 0.9rem;
+  font-size: 0.95rem;
 }
 
-/* Último item não precisa de nada especial, então não precisamos do bloco .pub-list .pub-item:last-child */
-
-.pub-title {
-  font-weight: 600;
-  font-size: 1rem;
-  color: #1b5e20;           /* mesmo verde principal */
-  text-decoration: none;
-}
-
-.pub-title:hover {
-  text-decoration: underline;
-}
-
-.pub-authors {
-  font-size: 0.8rem;        /* um pouco menor que o texto normal */
-  color: #444444;
-}
-
-.pub-journal {
-  font-size: 0.9rem;
-  color: #222222;
-}
-
-.pub-journal em {
-  font-style: italic;
-}
-
-/* Thumb da figura do artigo */
-.pub-thumb {
-  max-width: 300px;    /* antes era 140; pode testar 180, 200, 220 */
-  width: 100%;
-  height: auto;
-  border-radius: 4px;
-  display: block;
-}
-
-
-/* Responsivo: em tela estreita, figura vai pra baixo do texto */
-@media (max-width: 768px) {
-  .pub-item {
-    grid-template-columns: 1fr;
-  }
-  .pub-figure {
-    margin-top: 0.5rem;
-  }
-}
+/* =========================================
+   8. Publications
+   ========================================= */
 
 /* Filtros da página de publicações */
 .pub-filters {
@@ -322,101 +318,72 @@
   font-size: 0.9rem;
 }
 
-
-/* ===== Research projects ===== */
-
-.project-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  align-items: center;
-  margin-bottom: 1.25rem;
-  font-size: 0.9rem;
-}
-
-.project-filters label {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-}
-
-.project-filters select,
-.project-filters input {
-  padding: 0.2rem 0.4rem;
-  font-size: 0.9rem;
-  border-radius: 4px;
-  border: 1px solid #cccccc;
-}
-
-/* Lista de projetos em "cards" parecidos com Publications */
-.project-list {
+/* Lista de publicações */
+.pub-list {
   display: flex;
   flex-direction: column;
-  gap: 1.2rem;
+  gap: 1rem;
 }
 
-/* Cada projeto: coluna esquerda = ano, direita = conteúdo */
-.project-item {
+/* Cada publicação em formato de card */
+.pub-item {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) auto;  /* texto | figura */
   column-gap: 1rem;
   align-items: flex-start;
-
-  border-bottom: 1px solid #dddddd;
-  padding-bottom: 0.75rem;
-  margin-bottom: 0.75rem;
+  padding: 0.75rem 1rem;
+  background-color: rgba(255, 255, 153, 0.45);
+  border-radius: 8px;
+  border-left: 4px solid #1b5e20;
 }
 
-.project-list .project-item:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-/* Coluna dos anos */
-.project-year {
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: #555555;
-  white-space: nowrap;
-}
-
-/* Título do projeto, estilo parecido com pub-title */
-.project-title {
+.pub-title {
   font-weight: 600;
   font-size: 1rem;
   color: #1b5e20;
   text-decoration: none;
 }
 
-.project-title:hover {
+.pub-title:hover {
   text-decoration: underline;
 }
 
-/* Meta info (Role, Funding...) um pouco menor */
-.project-meta {
-  font-size: 0.9rem;
+.pub-authors {
+  font-size: 0.8rem;
   color: #444444;
-  margin-bottom: 0.2rem;
 }
 
-/* Texto do resumo do projeto */
-.project-body {
-  font-size: 0.95rem;
+.pub-journal {
+  font-size: 0.9rem;
+  color: #222222;
 }
 
-/* Responsivo: empilha ano + texto em telas estreitas */
+.pub-journal em {
+  font-style: italic;
+}
+
+/* Thumb da figura do artigo */
+.pub-thumb {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+}
+
+/* Responsivo: figura abaixo do texto */
 @media (max-width: 768px) {
-  .project-item {
+  .pub-item {
     grid-template-columns: 1fr;
   }
-
-  .project-year {
-    margin-bottom: 0.25rem;
+  .pub-figure {
+    margin-top: 0.5rem;
   }
 }
 
-/* ===== Projects page ===== */
+/* =========================================
+   9. Research projects (cards)
+   ========================================= */
 
 /* Filtros (ano e palavra-chave) */
 .project-filters {
@@ -455,9 +422,9 @@
   column-gap: 1rem;
   align-items: flex-start;
   padding: 0.75rem 1rem;
-  background-color: rgba(255, 255, 153, 0.45); /* amarelo claro, combinando com o site */
+  background-color: rgba(255, 255, 153, 0.45);
   border-radius: 8px;
-  border-left: 4px solid #1b5e20;             /* verde principal */
+  border-left: 4px solid #1b5e20;
 }
 
 /* Coluna da esquerda: anos */
@@ -465,7 +432,7 @@
   font-weight: 600;
   font-size: 0.95rem;
   color: #1b5e20;
-  min-width: 7rem; /* garante alinhamento dos anos */
+  min-width: 7rem;
 }
 
 /* Coluna da direita: texto */
@@ -485,12 +452,12 @@
   text-decoration: underline;
 }
 
-/* Pequeno respiro entre linhas "Role/Funding" e texto */
+/* Pequeno respiro entre "Role/Funding" e texto */
 .project-main p {
   margin-top: 0.35rem;
 }
 
-/* Responsivo: em tela estreita, ano vem em cima */
+/* Responsivo: ano em cima, texto embaixo */
 @media (max-width: 768px) {
   .project-card {
     grid-template-columns: 1fr;
@@ -499,4 +466,3 @@
     margin-bottom: 0.25rem;
   }
 }
-
