@@ -82,9 +82,10 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-[![](img/pubs/Oryx_2025.png){.pub-thumb}] (https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5)
+[![](img/pubs/Oryx_2025.png){.pub-thumb}](https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5)
 </div>
 :::
+
 
 ::: {.pub-item data-year="2025"}
 <div class="pub-text">
