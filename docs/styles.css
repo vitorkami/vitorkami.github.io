@@ -266,7 +266,7 @@ main.content {
   display: grid;
   grid-template-columns: 1fr 1fr;  /* duas colunas iguais */
   gap: 1rem;
-  background-color: #f7f7f7;       /* ilha cinza suave */
+  /* background-color removido para deixar transparente */
   border-radius: 8px;
   padding: 0.75rem 1rem;
   margin: 1rem 0 1.5rem;
@@ -276,11 +276,28 @@ main.content {
 .about-left {
   border-right: 1px solid #dddddd;
   padding-right: 1rem;
+  text-align: center;  /* centraliza nome e subtítulo */
 }
 
 /* Coluna direita: texto, com respiro à esquerda */
 .about-right {
   padding-left: 1rem;
+}
+
+/* Centralizar também os h4 e h5 dentro de .about-left */
+.about-left h4,
+.about-left h5 {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+/* Centralizar os links (ícones) */
+.about-links {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: center;  /* centraliza os ícones */
 }
 
 /* Separador horizontal entre o topo (colunas) e a parte pessoal */
@@ -328,7 +345,6 @@ hr.about-separator {
     padding-left: 0;
   }
 }
-
 /* =========================================
    8. Headings em caixas amarelas
    ========================================= */
