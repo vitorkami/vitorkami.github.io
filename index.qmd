@@ -11,8 +11,8 @@ editor:
 
 ::: {.columns}
 ::: {.column width="65%"}
-### Hi, I'm Vitor 👋
-#### Post-doc research at UNICAMP
+## Hi, I'm Vitor 👋
+### Post-doc research at UNICAMP
 
 My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time.
 
