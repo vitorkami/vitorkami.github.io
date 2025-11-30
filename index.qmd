@@ -4,8 +4,8 @@ subtitle: ""
 format:
   html:
     title-block-banner: true
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 100
 ---
 
@@ -16,13 +16,44 @@ editor:
 
 My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time.
 
+[![](img/icons/lattes.png){.link-icon}](http://lattes.cnpq.br/7485280029624432){.btn}
+[![](img/icons/google.png){.link-icon}](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn}
+[![](img/icons/orcid.png){.link-icon}](https://orcid.org/0000-0002-3276-5812){.btn}
+[![](img/icons/researchgate.png){.link-icon}](https://www.researchgate.net/profile/Vitor-Kamimura?ev=hdr_xprf){.btn}
+[![](img/icons/github.png){.link-icon}](https://github.com/vitorkami){.btn}
+
+<div class="learn-more">
+  <span class="learn-label">Learn more:</span>
+
+  <a href="home.qmd" class="learn-link">
+    <img src="img/icons/about.png" alt="" class="learn-icon">
+    About me
+  </a>
+
+  <a href="research.qmd" class="learn-link">
+    <img src="img/icons/research.png" alt="" class="learn-icon">
+    Research
+  </a>
+
+  <a href="publications.qmd" class="learn-link">
+    <img src="img/icons/publications.png" alt="" class="learn-icon">
+    Publications
+  </a>
+
+  <a href="fieldwork.qmd" class="learn-link">
+    <img src="img/icons/fieldwork.png" alt="" class="learn-icon">
+    Fieldwork
+  </a>
+
+  <a href="code.qmd" class="learn-link">
+    <img src="img/icons/code.png" alt="" class="learn-icon">
+    Coding
+  </a>
+</div>
 
 :::
 
-::: {.column width="35%"}
+::: {.column width="25%"}
 ![](img/index.jpg){.profile-photo}
 :::
 :::
-
----
-
