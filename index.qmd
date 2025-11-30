@@ -12,6 +12,14 @@ editor:
 ::: {.columns}
 ::: {.column width="65%"}
 ### Hi, I'm Vitor 👋
+#### Post-doc research at UNICAMP
+
+[![](img/icons/lattes.png){.link-icon}](http://lattes.cnpq.br/7485280029624432){.btn}
+[![](img/icons/google.png){.link-icon}](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn}  
+[![](img/icons/orcid.png){.link-icon}](https://orcid.org/0000-0002-3276-5812){.btn}
+[![](img/icons/researchgate.png){.link-icon}](https://www.researchgate.net/profile/Vitor-Kamimura?ev=hdr_xprf){.btn}
+[![](img/icons/github.png){.link-icon}](https://github.com/vitorkami){.btn}
+
 
 I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to
 persist in extreme environments. My research integrates evolutionary, functional, and spatial
