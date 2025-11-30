@@ -10,15 +10,25 @@
     background-color: #e9fcf1;     /* amarelo bem clarinho */
   }
   
-  /* Navbar em tom de verde escuro */
-  .navbar {
-    background-color: #1b5e20 !important;
-  }
-  
-  .navbar a.nav-link,
-  .navbar-brand {
-    color: #ffffff !important;
-  }
+/* Navbar em tom de verde escuro */
+.navbar {
+  background-color: #1b5e20 !important;
+}
+
+/* Título do site (brand) em branco */
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Abas (links do menu) em amarelo */
+.navbar a.nav-link {
+  color: #FFFFCC !important;  /* amarelo claro que você já usa no fundo */
+}
+
+.navbar .nav-link.active {
+  font-weight: 600;
+  text-decoration: underline;
+}
   
   /* 2. Foto de fundo no título da página (title block) */
   #title-block-header {

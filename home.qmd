@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+This is the content of the Home page.
+
+You can put here news, highlights, whatever you want separated from the main landing page.
