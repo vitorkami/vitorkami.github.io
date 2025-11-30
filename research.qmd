@@ -4,9 +4,8 @@ title: "Projects and reviewing"
 
 ## Research projects
 
-::: {.text-card}
 I work across evolutionary, functional and spatial ecology to understand how biodiversity is generated, maintained and reorganized under global change. My projects combine long-term monitoring, trait-based approaches and spatially explicit models in tropical forests and insular systems.
-:::
+
 
 
 <div class="project-filters">

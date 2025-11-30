@@ -82,7 +82,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Oryx_2025.png){.pub-thumb}] (https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5)
+[![](img/pubs/Oryx_2025.png){.pub-thumb}] (https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5)
 </div>
 :::
 
@@ -101,7 +101,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/TFP_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2666719325001207)
+[![](img/pubs/TFP_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2666719325001207)
 </div>
 :::
 
@@ -120,7 +120,7 @@ Sachetti, W. L.; <strong>Kamimura, V. de A.</strong>; Mayer, J. L. S.; Arida, B.
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Plant_div_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2468265925001076)
+[![](img/pubs/Plant_div_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2468265925001076)
 </div>
 :::
 
@@ -139,7 +139,7 @@ Sabino, G. P.; Pinheiro, F.; Koch, I.; de Azevedo, M. L.; Tavares, M. M.; Franci
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/CELL_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2949790625001302)
+[![](img/pubs/CELL_2025.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/pii/S2949790625001302)
 </div>
 :::
 
@@ -158,7 +158,7 @@ Bialic-Murphy, L.; McElderry, R. M.; Esquivel-Muelbert, A.; van den Hoogen, J.; 
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Science_2024.jpg){.pub-thumb}](https://www.science.org/doi/10.1126/science.adk9616)
+[![](img/pubs/Science_2024.jpg){.pub-thumb}](https://www.science.org/doi/10.1126/science.adk9616)
 </div>
 :::
 
@@ -177,7 +177,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Biod_con_2024_1.jpeg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0006320722003949?via%3Dihub)
+[![](img/pubs/Biod_con_2024_1.jpeg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0006320722003949?via%3Dihub)
 </div>
 :::
 
@@ -196,7 +196,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Biod_con_2024_2.gif){.pub-thumb}] (https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub)
+[![](img/pubs/Biod_con_2024_2.gif){.pub-thumb}] (https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub)
 </div>
 :::
 
@@ -215,7 +215,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/J_mountain_2023.jpg){.pub-thumb}](https://link.springer.com/article/10.1007/s11629-022-7838-z)
+[![](img/pubs/J_mountain_2023.jpg){.pub-thumb}](https://link.springer.com/article/10.1007/s11629-022-7838-z)
 </div>
 :::
 
@@ -234,7 +234,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/PPEES_2023.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S1433831923000161)
+[![](img/pubs/PPEES_2023.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S1433831923000161)
 </div>
 :::
 
@@ -253,7 +253,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Bot_Rev_2022.png){.pub-thumb}](https://link.springer.com/article/10.1007/s12229-021-09270-2)
+[![](img/pubs/Bot_Rev_2022.png){.pub-thumb}](https://link.springer.com/article/10.1007/s12229-021-09270-2)
 </div>
 :::
 
