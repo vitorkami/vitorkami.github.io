@@ -261,7 +261,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 ::: {.pub-item data-year="2022"}
 <div class="pub-text">
 
-[**Family legacy: contrasting diversity–elevation relationships in a coastal Atlantic Forest mountain system**](#){.pub-title}
+[**Family legacy: contrasting diversity–elevation relationships in a coastal Atlantic Forest mountain system**](https://link.springer.com/article/10.1007/s11258-022-01251-8){.pub-title}
 
 <span class="pub-authors">
 <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Sabino, G. P.; Assis, M. A.; Joly, C. A.; de Paula Loiola, P. (2022).
@@ -273,7 +273,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-13.jpg){.pub-thumb}
+[![](img/pubs/Plant_Eco_2021.jpg){.pub-thumb}](https://link.springer.com/article/10.1007/s11258-022-01251-8)
 </div>
 :::
 
