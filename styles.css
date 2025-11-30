@@ -15,6 +15,15 @@
   background-color: #1b5e20 !important;
 }
 
+/* Título do site (Vitor Kamimura) em amarelo, como as abas */
+.navbar-brand {
+  color: #FFFF99 !important;
+}
+
+.navbar-brand:hover {
+  color: #ffffff !important;
+}
+
 /* Abas (links do menu) em amarelo por padrão */
 .navbar a.nav-link {
   color: #FFFF99 !important;
