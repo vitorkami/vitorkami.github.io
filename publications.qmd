@@ -299,7 +299,7 @@ Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.;
 ::: {.pub-item data-year="2021"}
 <div class="pub-text">
 
-[**The vascular flora of Porto Ferreira State Park: an ecotonal area in São Paulo State, southeastern Brazil**](#){.pub-title}
+[**The vascular flora of Porto Ferreira State Park: an ecotonal area in São Paulo State, southeastern Brazil**](https://www.scielo.br/j/bn/a/fv8fQx5SxqQ77NhZcJysBmQ/abstract/?format=html&lang=en){.pub-title}
 
 <span class="pub-authors">
 Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Konopczyk, R.; Dickfeldt, E. P.; Bertoni, J. E. A.; Evangelista, S. A. S.; Marcusso, G. M. (2021).
@@ -311,7 +311,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Konopczyk, R.;
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-15.jpg){.pub-thumb}
+[![](img/pubs/Bio_Neo_2021.jpg){.pub-thumb}](https://www.scielo.br/j/bn/a/fv8fQx5SxqQ77NhZcJysBmQ/abstract/?format=html&lang=en)
 </div>
 :::
 
