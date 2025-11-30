@@ -27,19 +27,19 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
   <span class="learn-label">Learn more:</span>
 
   <a href="home.qmd" class="learn-link">
-    <img src="img/icons/about.jpeg" alt="" class="learn-icon">
+    <img src="img/icons/about.png" alt="" class="learn-icon">
   </a>
 
   <a href="research.qmd" class="learn-link">
-    <img src="img/icons/research.jpg" alt="" class="learn-icon">
+    <img src="img/icons/research.png" alt="" class="learn-icon">
   </a>
 
   <a href="publications.qmd" class="learn-link">
-    <img src="img/icons/articles.jpg" alt="" class="learn-icon">
+    <img src="img/icons/articles.png" alt="" class="learn-icon">
   </a>
 
   <a href="fieldwork.qmd" class="learn-link">
-    <img src="img/icons/fieldwork.webp" alt="" class="learn-icon">
+    <img src="img/icons/fieldwork.png" alt="" class="learn-icon">
   </a>
 
   <a href="code.qmd" class="learn-link">
