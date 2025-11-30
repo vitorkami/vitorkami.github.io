@@ -183,7 +183,7 @@ main.content {
 
 /* Foto menor específica da página About */
 .profile-photo.about-photo {
-  max-width: 260px;  /* menor que os 500px do index */
+  max-width: 220px;  /* menor que os 500px do index */
 }
 
 /* Agrupar ícones abaixo da foto na página About */
