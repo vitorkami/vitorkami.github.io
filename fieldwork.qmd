@@ -1,6 +1,10 @@
 ---
 title: "Fieldwork and study systems"
 ---
+## Fieldwork
+
+::: {.text-card}
+I have carried out fieldwork across Atlantic Forest, Amazon, Cerrado, Caatinga and extreme habitats such as Amazon cangas and continental and marine inselbergs, focusing on long-term plots, trait sampling and demographic monitoring.
 
 
 My fieldwork spans a wide range of Neotropical ecosystems, from humid forests to seasonally dry and open vegetation, including:
@@ -13,13 +17,16 @@ My fieldwork spans a wide range of Neotropical ecosystems, from humid forests to
 -   **Inselbergs** – both continental and coastal/maritime rocky outcrops, hosting highly specialized and often endemic plant communities
 
 Across these systems, I combine vegetation surveys, demographic monitoring, experiments and trait measurements to understand how environmental gradients, disturbance and insularity shape plant communities and plant interactions.
+:::
 
 ------------------------------------------------------------------------
 
 ## Fieldwork video
+## Fieldwork
 
-Below is a short video presenting my fieldwork in the Atlantic Forest.
-
+::: {.text-card}
+Below are short videos presenting my fieldwork in the Atlantic Forest.
+:::
 ::: video-container
 <iframe
     src="https://www.youtube.com/embed/ZMv546Z8O3w"
