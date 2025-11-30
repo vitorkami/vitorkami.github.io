@@ -204,7 +204,7 @@ main.content {
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
   overflow: hidden;
-  max-width: 50%;
+  max-width: 100%;   /* antes estava 50% */
   margin: 1.5rem 0;
 }
 

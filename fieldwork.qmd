@@ -23,6 +23,9 @@ Across these systems, I combine vegetation surveys, demographic monitoring, expe
 
 Below are short videos presenting my fieldwork in the Atlantic Forest.
 
+::: {.columns}
+::: {.column width="50%"}
+
 ::: {.video-container}
 <iframe
   src="https://www.youtube.com/embed/ZMv546Z8O3w"
@@ -34,6 +37,10 @@ Below are short videos presenting my fieldwork in the Atlantic Forest.
 </iframe>
 :::
 
+:::
+
+::: {.column width="50%"}
+
 ::: {.video-container}
 <iframe
   src="https://www.youtube.com/embed/WeMY_eO6q54?start=3"
@@ -44,3 +51,7 @@ Below are short videos presenting my fieldwork in the Atlantic Forest.
   allowfullscreen>
 </iframe>
 :::
+
+:::
+:::
+
