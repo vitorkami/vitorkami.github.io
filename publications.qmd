@@ -318,7 +318,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Konopczyk, R.;
 ::: {.pub-item data-year="2021"}
 <div class="pub-text">
 
-[**Atlantic Forest meets the Cerrado: floristic, structure and species distribution of an ecotonal tree community**](#){.pub-title}
+[**Atlantic Forest meets the Cerrado: floristic, structure and species distribution of an ecotonal tree community**](https://www.researchgate.net/publication/356148782_Atlantic_Forest_meets_the_Cerrado_floristic_structure_and_species_distribution_of_an_ecotonal_tree_community){.pub-title}
 
 <span class="pub-authors">
 Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Monteiro, R. (2021).
@@ -330,14 +330,14 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Monteiro, R
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-16.jpg){.pub-thumb}
+[![](img/pubs/Nativa_2021.png){.pub-thumb}](https://www.researchgate.net/publication/356148782_Atlantic_Forest_meets_the_Cerrado_floristic_structure_and_species_distribution_of_an_ecotonal_tree_community)
 </div>
 :::
 
 ::: {.pub-item data-year="2019"}
 <div class="pub-text">
 
-[**Epiphyte–phorophyte relationships: assessing the differences between seasonal semideciduous and swamp forests in southeastern Brazil**](#){.pub-title}
+[**Epiphyte–phorophyte relationships: assessing the differences between seasonal semideciduous and swamp forests in southeastern Brazil**](https://www.scielo.br/j/hoehnea/a/CqWKzJw44G6s794yZSRWvvC/?lang=en){.pub-title}
 
 <span class="pub-authors">
 Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Monteiro, R. (2019).
@@ -349,14 +349,14 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Monteiro, R. (2019).
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-17.jpg){.pub-thumb}
+[![](img/pubs/Hoenea_2019.jpeg){.pub-thumb}](https://www.scielo.br/j/hoehnea/a/CqWKzJw44G6s794yZSRWvvC/?lang=en)
 </div>
 :::
 
 ::: {.pub-item data-year="2018"}
 <div class="pub-text">
 
-[**Climbing plants of Porto Ferreira State Park, southeastern Brazil**](#){.pub-title}
+[**Climbing plants of Porto Ferreira State Park, southeastern Brazil**](https://www.scielo.br/j/bn/a/knFW6nBFBcmrYtpvSHgdBJm/?lang=en){.pub-title}
 
 <span class="pub-authors">
 Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G. P.; Melo, P. H.; Grillo, R. M. M.; <strong>Kamimura, V. de A.</strong>; Assis, M. A. (2018).
@@ -368,14 +368,14 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-18.jpg){.pub-thumb}
+[![](img/pubs/Bio_Neo_2018.jpg){.pub-thumb}](https://www.scielo.br/j/bn/a/knFW6nBFBcmrYtpvSHgdBJm/?lang=en)
 </div>
 :::
 
 ::: {.pub-item data-year="2018"}
 <div class="pub-text">
 
-[**Floristic, structure and ecological groups of a tree community in the Atlantic rainforest at Serra do Mar, São Paulo, Brazil**](#){.pub-title}
+[**Floristic, structure and ecological groups of a tree community in the Atlantic rainforest at Serra do Mar, São Paulo, Brazil**](https://www.researchgate.net/publication/329722794_FLORISTIC_STRUCTURE_AND_ECOLOGICAL_GROUPS_OF_A_TREE_COMMUNITY_IN_THE_ATLANTIC_RAINFOREST_AT_SERRA_DO_MAR_SP_BRAZIL){.pub-title}
 
 <span class="pub-authors">
 <strong>Kamimura, V. de A.</strong>; Morais, R. F.; Joly, C. A.; Assis, M. A. (2018).
@@ -387,14 +387,14 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-19.jpg){.pub-thumb}
+[![](img/pubs/Nativa_2018.jpg){.pub-thumb}](https://www.researchgate.net/publication/329722794_FLORISTIC_STRUCTURE_AND_ECOLOGICAL_GROUPS_OF_A_TREE_COMMUNITY_IN_THE_ATLANTIC_RAINFOREST_AT_SERRA_DO_MAR_SP_BRAZIL)
 </div>
 :::
 
 ::: {.pub-item data-year="2017"}
 <div class="pub-text">
 
-[**Tree diversity and elevational gradient: the case of Lauraceae in the Atlantic rainforest**](#){.pub-title}
+[**Tree diversity and elevational gradient: the case of Lauraceae in the Atlantic rainforest**](https://www.sciencedirect.com/science/article/abs/pii/S0367253017332255){.pub-title}
 
 <span class="pub-authors">
 <strong>Kamimura, V. de A.</strong>; Moraes, P. L. R.; Ribeiro, H. L.; Joly, C. A.; Assis, M. A. (2017).
@@ -406,7 +406,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-20.jpg){.pub-thumb}
+[![](img/pubs/Fora_2017.jpg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0367253017332255)
 </div>
 :::
 
@@ -425,7 +425,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-21.jpg){.pub-thumb}
+![](img/pubs/Com_Plan_Scie_2012.png){.pub-thumb}
 </div>
 :::
 
