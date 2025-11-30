@@ -19,27 +19,28 @@ Across these systems, I combine vegetation surveys, demographic monitoring, expe
 
 
 ------------------------------------------------------------------------
-
 ## Fieldwork video
 
 Below are short videos presenting my fieldwork in the Atlantic Forest.
 
-::: video-container
+::: {.video-container}
 <iframe
-    src="https://www.youtube.com/embed/ZMv546Z8O3w"
-    title="Fieldwork video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen> </iframe>
+  src="https://www.youtube.com/embed/ZMv546Z8O3w"
+  title="Fieldwork video – plot work"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 :::
 
-::: video-container
+::: {.video-container}
 <iframe
-    src="https://www.youtube.com/watch?v=WeMY_eO6q54&t=3s"
-    title="Fieldwork video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen> </iframe>
+  src="https://www.youtube.com/embed/WeMY_eO6q54?start=3"
+  title="Fieldwork video – canopy and landscape"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 :::
