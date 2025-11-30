@@ -251,3 +251,180 @@
   }
 }
 
+/* ===== Research projects ===== */
+
+.project-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+}
+
+.project-filters label {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.project-filters select,
+.project-filters input {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  border: 1px solid #cccccc;
+}
+
+/* Lista de projetos em "cards" parecidos com Publications */
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+/* Cada projeto: coluna esquerda = ano, direita = conteúdo */
+.project-item {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: 1rem;
+  align-items: flex-start;
+
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.project-list .project-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Coluna dos anos */
+.project-year {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #555555;
+  white-space: nowrap;
+}
+
+/* Título do projeto, estilo parecido com pub-title */
+.project-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1b5e20;
+  text-decoration: none;
+}
+
+.project-title:hover {
+  text-decoration: underline;
+}
+
+/* Meta info (Role, Funding...) um pouco menor */
+.project-meta {
+  font-size: 0.9rem;
+  color: #444444;
+  margin-bottom: 0.2rem;
+}
+
+/* Texto do resumo do projeto */
+.project-body {
+  font-size: 0.95rem;
+}
+
+/* Responsivo: empilha ano + texto em telas estreitas */
+@media (max-width: 768px) {
+  .project-item {
+    grid-template-columns: 1fr;
+  }
+
+  .project-year {
+    margin-bottom: 0.25rem;
+  }
+}
+
+/* ===== Projects page ===== */
+
+/* Filtros (ano e palavra-chave) */
+.project-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.project-filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.project-filters select,
+.project-filters input[type="text"] {
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid #cccccc;
+  font-size: 0.9rem;
+}
+
+/* Lista de cards */
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Card individual */
+.project-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr); /* ano | conteúdo */
+  column-gap: 1rem;
+  align-items: flex-start;
+  padding: 0.75rem 1rem;
+  background-color: rgba(255, 255, 153, 0.45); /* amarelo claro, combinando com o site */
+  border-radius: 8px;
+  border-left: 4px solid #1b5e20;             /* verde principal */
+}
+
+/* Coluna da esquerda: anos */
+.project-year {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1b5e20;
+  min-width: 7rem; /* garante alinhamento dos anos */
+}
+
+/* Coluna da direita: texto */
+.project-main {
+  font-size: 0.9rem;
+}
+
+/* Título do projeto (link) */
+.project-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1b5e20;
+  text-decoration: none;
+}
+
+.project-title:hover {
+  text-decoration: underline;
+}
+
+/* Pequeno respiro entre linhas "Role/Funding" e texto */
+.project-main p {
+  margin-top: 0.35rem;
+}
+
+/* Responsivo: em tela estreita, ano vem em cima */
+@media (max-width: 768px) {
+  .project-card {
+    grid-template-columns: 1fr;
+  }
+  .project-year {
+    margin-bottom: 0.25rem;
+  }
+}
+
