@@ -29,7 +29,7 @@ title: "Publications"
 
 ::: {.pub-list}
 
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**Tropical forests in the Americas are changing too slowly to track climate change**](https://www.science.org/doi/10.1126/science.adl5414){.pub-title}
@@ -48,8 +48,7 @@ Aguirre-Gutiérrez, J.; Díaz, S.; Rifai, S. W.; Corral-Rivas, J. J.; Nava-Miran
 </div>
 :::
 
-
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**Islanded islands: dual isolation drives distinctive and threatened floras of Neotropical maritime inselbergs**](https://onlinelibrary.wiley.com/doi/10.1111/jvs.70037?af=R){.pub-title}
@@ -68,7 +67,7 @@ Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, 
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**Rediscovery and conservation of (Begoniaceae): a critically endangered, insular, narrow endemic species of Brazil**](#){.pub-title}
@@ -87,7 +86,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**Unveiling anthropogenic disturbance effects on tropical tree communities: clade-based insights across elevations**](#){.pub-title}
@@ -106,7 +105,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**We are not all the same: the role of intrapopulation trait variability in shaping functional strategy and performance of widespread species**](#){.pub-title}
@@ -125,7 +124,7 @@ Sachetti, W. L.; <strong>Kamimura, V. de A.</strong>; Mayer, J. L. S.; Arida, B.
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
 [**When natives become villains: plant super-dominance and its implications on island ecosystems**](#){.pub-title}
@@ -144,7 +143,7 @@ Sabino, G. P.; Pinheiro, F.; Koch, I.; de Azevedo, M. L.; Tavares, M. M.; Franci
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2024"}
 <div class="pub-text">
 
 [**The pace of life for forest trees**](#){.pub-title}
@@ -163,7 +162,7 @@ Bialic-Murphy, L.; McElderry, R. M.; Esquivel-Muelbert, A.; van den Hoogen, J.; 
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
 [**Smaller human populations are neither a necessary nor sufficient condition for biodiversity conservation**](#){.pub-title}
@@ -182,7 +181,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
 [**Smaller human populations are still not a necessary condition for biodiversity conservation: a response to Cafaro et al. (2023)**](#){.pub-title}
@@ -201,7 +200,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
 [**Shared role of vegetation types, elevation and soil affecting plant diversity in an old-tropical mountain hotspot**](#){.pub-title}
@@ -220,7 +219,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
 [**Trait interactions effects on tropical tree demography depend on the environmental context**](#){.pub-title}
@@ -239,7 +238,7 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2022"}
 <div class="pub-text">
 
 [**Phytogeographic meta-analysis of the vascular epiphytes in the Neotropical region**](#){.pub-title}
@@ -258,7 +257,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2022"}
 <div class="pub-text">
 
 [**Family legacy: contrasting diversity–elevation relationships in a coastal Atlantic Forest mountain system**](#){.pub-title}
@@ -277,13 +276,13 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2021"}
 <div class="pub-text">
 
 [**Taking the pulse of Earth's tropical forests using networks of highly distributed plots**](#){.pub-title}
 
 <span class="pub-authors">
-Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.; Bird, M.; Bradford, M.; Catchpole, D.; Ford, A.; Graham, A.; Hilbert, D.; Kemp, J.; Laurance, S.; Laurance, W.; Ishida, F. Y.; Marshall, A.; Waite, C.; Woell, H.; <strong>Kamimura, V. de A.</strong>; et al. (2021).
+Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.; Bird, M.; Bradford, M.; Catchpole, D.; Ford, A.; Graham, A.; Hilbert, D.; Kemp, J.; Laurance, S.; Laurance, W.; Ishida, F. Y.; Marshall, A.; Waite, C; Woell, H.; <strong>Kamimura, V. de A.</strong>; et al. (2021).
 </span><br>
 <span class="pub-journal">
 <em>Biological Conservation</em>, 260, 108849.
@@ -296,7 +295,7 @@ Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.;
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2021"}
 <div class="pub-text">
 
 [**The vascular flora of Porto Ferreira State Park: an ecotonal area in São Paulo State, southeastern Brazil**](#){.pub-title}
@@ -315,7 +314,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Konopczyk, R.;
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2021"}
 <div class="pub-text">
 
 [**Atlantic Forest meets the Cerrado: floristic, structure and species distribution of an ecotonal tree community**](#){.pub-title}
@@ -334,7 +333,7 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Monteiro, R
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2019"}
 <div class="pub-text">
 
 [**Epiphyte–phorophyte relationships: assessing the differences between seasonal semideciduous and swamp forests in southeastern Brazil**](#){.pub-title}
@@ -353,7 +352,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Monteiro, R. (2019).
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2018"}
 <div class="pub-text">
 
 [**Climbing plants of Porto Ferreira State Park, southeastern Brazil**](#){.pub-title}
@@ -372,7 +371,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2018"}
 <div class="pub-text">
 
 [**Floristic, structure and ecological groups of a tree community in the Atlantic rainforest at Serra do Mar, São Paulo, Brazil**](#){.pub-title}
@@ -391,7 +390,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2017"}
 <div class="pub-text">
 
 [**Tree diversity and elevational gradient: the case of Lauraceae in the Atlantic rainforest**](#){.pub-title}
@@ -410,7 +409,7 @@ Vargas, B. C.; Oliveira, A. P. C.; Udulutsch, R. G.; Marcusso, G. M.; Sabino, G.
 </div>
 :::
 
-::: {.pub-item}
+::: {.pub-item data-year="2012"}
 <div class="pub-text">
 
 [**Structure and diversity of the Myrtaceae family in lowland ombrophilous dense forest of the State Park of Serra do Mar (Ubatuba, SP, Brazil)**](#){.pub-title}
@@ -444,16 +443,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     items.forEach(item => {
       const itemYear = parseInt(item.dataset.year, 10);
-      const text = item.innerText.toLowerCase();
+      const text = item.textContent.toLowerCase();
 
       let visible = true;
 
-      // filtro por ano: "From 2023" = mostra apenas publicações com ano >= 2023
       if (minYear !== null && (!itemYear || itemYear < minYear)) {
         visible = false;
       }
 
-      // filtro por palavra-chave: busca no texto inteiro do card
       if (keyword && !text.includes(keyword)) {
         visible = false;
       }
