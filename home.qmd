@@ -4,11 +4,13 @@ title: "About me"
 
 ## Academic profile
 
-<div class="columns about-columns">
-  <div class="column" style="width:50%">
+<div class="about-grid">
+  <div class="about-left">
     <img src="img/vitor-profile.jpg" class="profile-photo about-photo">
+
     <h3>Vitor de Andrade Kamimura</h3>
     <h5>Brazilian/Latin Plant Ecologist</h5>
+
     <div class="about-links">
       <a href="http://lattes.cnpq.br/7485280029624432" class="btn">
         <img src="img/icons/lattes.png" class="link-icon">
@@ -28,7 +30,7 @@ title: "About me"
     </div>
   </div>
 
-  <div class="column" style="width:50%">
+  <div class="about-right">
     <p>I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to persist in extreme environments. My research integrates evolutionary, functional and spatial ecology to uncover the mechanisms that generate, maintain and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time. I am also engaged with political ecology, critically examining neo‑colonial narratives in conservation biology and their implications for biodiversity governance and scientific practice.</p>
 
     <p>In my work, I integrate:</p>
