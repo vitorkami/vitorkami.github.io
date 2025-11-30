@@ -196,7 +196,30 @@ main.content {
 }
 
 /* =========================================
-   5. Vídeo responsivo
+   5. Responsivo - Index (celular)
+   ========================================= */
+
+@media (max-width: 768px) {
+  /* Reduz a foto de perfil no mobile */
+  .profile-photo {
+    max-width: 180px;  /* ajuste aqui se quiser menor/maior */
+  }
+
+  /* Ícones "Learn more" menores no mobile */
+  .learn-icon {
+    height: 36px;
+  }
+
+  /* Ícones dos links (Lattes, Scholar etc.) menores */
+  .link-icon {
+    height: 45px;
+  }
+}
+
+
+
+/* =========================================
+   6. Vídeo responsivo
    ========================================= */
 
 .video-container {
@@ -217,7 +240,7 @@ main.content {
 }
 
 /* =========================================
-   6. "Learn more" na Home
+   7. "Learn more" na Home
    ========================================= */
 
 .learn-more {
@@ -258,7 +281,7 @@ main.content {
 }
 
 /* =========================================
-   7. Home - About grid layout
+   8. Home - About grid layout
    ========================================= */
 
 /* Bloco com duas colunas (foto+links à esquerda, texto à direita) */
@@ -346,7 +369,7 @@ hr.about-separator {
   }
 }
 /* =========================================
-   8. Headings em caixas amarelas
+   9. Headings em caixas amarelas
    ========================================= */
 
 /* Seções (##) em caixas amarelas discretas */
@@ -385,7 +408,7 @@ main.content h3 {
 }
 
 /* =========================================
-   9. Publications
+   10. Publications
    ========================================= */
 
 /* Filtros da página de publicações */
@@ -475,7 +498,7 @@ main.content h3 {
 }
 
 /* =========================================
-   10. Research projects (cards)
+   11. Research projects (cards)
    ========================================= */
 
 /* Filtros (ano e palavra-chave) */
