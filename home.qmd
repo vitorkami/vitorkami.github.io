@@ -4,7 +4,7 @@ title: "About me"
 
 ## Academic profile
 
-::: {.columns}
+::: {.columns .about-columns}
 ::: {.column width="50%"}
 
 ![](img/vitor-profile.jpg){.profile-photo .about-photo}
@@ -33,7 +33,12 @@ In my work, I integrate:
 :::
 :::
 
+<hr class="about-separator">
+
 ## Personal story
 
-*I grew up in São Paulo, and my first contact with tropical forests came through Atlantic Forest. During my undergraduate and graduate years at UNESP, I became increasingly interested in how ecological theory, field ecology and political debates over land, conservation and neo‑colonial narratives intersect in real landscapes. Today, my work in UNICAMP at LEEG Laboratory [https://www.instagram.com/leeg.unicamp/] continues to be shaped by these experiences, combining long-term monitoring, collaboration with local researchers and communities, and critical perspectives on how conservation decisions are made.*
+::: {.personal-story}
+I grew up in São Paulo, and my first contact with tropical forests came through the Atlantic Forest. During my undergraduate and graduate years at UNESP, I became increasingly interested in how ecological theory, field ecology and political debates over land, conservation and neo‑colonial narratives intersect in real landscapes.
 
+Today, my work in UNICAMP at [LEEG Laboratory](https://www.instagram.com/leeg.unicamp/){.inline-link} continues to be shaped by these experiences, combining long-term monitoring, collaboration with local researchers and communities, and critical perspectives on how conservation decisions are made.
+:::
