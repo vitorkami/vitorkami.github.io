@@ -257,6 +257,47 @@ main.content {
   object-fit: contain;
 }
 
+/* Layout específico da página About/Home */
+
+/* Colunas do topo com uma separação leve entre esquerda e direita */
+.about-columns {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Borda suave no lado direito da coluna esquerda */
+.about-columns > .column:first-child {
+  border-right: 1px solid #dddddd;
+  padding-right: 1rem;
+}
+
+/* Espaço à esquerda da coluna direita */
+.about-columns > .column:last-child {
+  padding-left: 1rem;
+}
+
+/* Separador horizontal entre o topo (colunas) e a parte pessoal */
+hr.about-separator {
+  border: 0;
+  border-top: 1px solid #dddddd;
+  margin: 1.5rem 0 1rem;
+}
+
+/* Responsivo: em tela estreita, a borda vira horizontal */
+@media (max-width: 768px) {
+  .about-columns > .column:first-child {
+    border-right: none;
+    border-bottom: 1px solid #dddddd;
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .about-columns > .column:last-child {
+    padding-left: 0;
+  }
+}
+
 /* =========================================
    7. Headings em caixas amarelas
    ========================================= */
@@ -297,7 +338,52 @@ main.content h3 {
 }
 
 /* =========================================
-   8. Publications
+   8. Layout específico da página About/Home
+   ========================================= */
+
+/* Layout específico da página About/Home */
+
+/* Colunas do topo com uma separação leve entre esquerda e direita */
+.about-columns {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Borda suave no lado direito da coluna esquerda */
+.about-columns > .column:first-child {
+  border-right: 1px solid #dddddd;
+  padding-right: 1rem;
+}
+
+/* Espaço à esquerda da coluna direita */
+.about-columns > .column:last-child {
+  padding-left: 1rem;
+}
+
+/* Separador horizontal entre o topo (colunas) e a parte pessoal */
+hr.about-separator {
+  border: 0;
+  border-top: 1px solid #dddddd;
+  margin: 1.5rem 0 1rem;
+}
+
+/* Responsivo: em tela estreita, a borda vira horizontal */
+@media (max-width: 768px) {
+  .about-columns > .column:first-child {
+    border-right: none;
+    border-bottom: 1px solid #dddddd;
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .about-columns > .column:last-child {
+    padding-left: 0;
+  }
+}
+
+/* =========================================
+   9. Publications
    ========================================= */
 
 /* Filtros da página de publicações */
@@ -387,7 +473,7 @@ main.content h3 {
 }
 
 /* =========================================
-   9. Research projects (cards)
+   10. Research projects (cards)
    ========================================= */
 
 /* Filtros (ano e palavra-chave) */
