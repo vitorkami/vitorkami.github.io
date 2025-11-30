@@ -32,7 +32,7 @@
     "href": "home.html",
     "title": "About me",
     "section": "",
-    "text": "I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to persist in extreme environments. My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time.\nIn my work, I integrate:\n\nfield sampling and experiments\n\nlong-term monitoring\nlaboratory experiments and trait measurements\n\nstatistical analysis and modelling in R"
+    "text": "I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life’s capacity to persist in extreme environments. My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time. I am also interested in political ecology, critically engaging with how neo‑colonial perspectives continue to shape biodiversity conservation, environmental governance and scientific practice.\nIn my work, I integrate:\n\nfield sampling and experiments\n\nlong-term monitoring\nlaboratory experiments and trait measurements\n\nstatistical analysis and modelling in R"
   },
   {
     "objectID": "research.html",
@@ -67,14 +67,7 @@
     "href": "fieldwork.html#fieldwork-video",
     "title": "Fieldwork and study systems",
     "section": "Fieldwork video",
-    "text": "Fieldwork video"
-  },
-  {
-    "objectID": "fieldwork.html#fieldwork-1",
-    "href": "fieldwork.html#fieldwork-1",
-    "title": "Fieldwork and study systems",
-    "section": "Fieldwork",
-    "text": "Fieldwork\n\nBelow are short videos presenting my fieldwork in the Atlantic Forest."
+    "text": "Fieldwork video\n\nBelow are short videos presenting my fieldwork in the Atlantic Forest."
   },
   {
     "objectID": "code.html",

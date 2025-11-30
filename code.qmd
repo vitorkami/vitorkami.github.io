@@ -1,8 +1,7 @@
 ---
 title: "Code & Reproducible Workflows"
 ---
-
-
+::: {.text-card}
 My research involves code at many stages of the scientific process, from data collection to publication‑ready figures.  
 I work mainly in **R**, combining classical statistical approaches with modern computational tools.
 
@@ -15,4 +14,4 @@ I am interested in:
 - implementing **reproducible workflows**, integrating data, code and documentation in transparent pipelines
 
 Soon this page will host links to the GitHub repositories associated with my manuscripts and ongoing projects.
-
+:::

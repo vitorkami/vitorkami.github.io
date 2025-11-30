@@ -2,7 +2,12 @@
 title: "Projects and reviewing"
 ---
 
-### Research projects
+## Research projects
+
+::: {.text-card}
+I work across evolutionary, functional and spatial ecology to understand how biodiversity is generated, maintained and reorganized under global change. My projects combine long-term monitoring, trait-based approaches and spatially explicit models in tropical forests and insular systems.
+:::
+
 
 <div class="project-filters">
   <label>
@@ -211,6 +216,7 @@ Early-career project focused on the floristic composition, structure and functio
 
 ### Reviewing
 
+::: {.text-card}
 I regularly serve as a reviewer for scientific journals in ecology, plant sciences and biodiversity conservation, including:
 
 - **Journal of Tropical Ecology** – 2025–present  
@@ -235,6 +241,7 @@ I regularly serve as a reviewer for scientific journals in ecology, plant scienc
 - **Annals of Forest Science** – 2018–present  
 - **HOLOS Environment** – reviewer in 2017  
 - **Acta Botanica Brasilica** – reviewer in 2016  
+:::
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
