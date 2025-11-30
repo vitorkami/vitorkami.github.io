@@ -15,7 +15,7 @@ editor:
 
 Post-doc research at UNICAMP
 
-My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across scales in space and time.
+My research integrates evolutionary, functional, and spatial ecology to uncover the mechanisms that generate, maintain, and organize biodiversity, and to understand how ecological and evolutionary processes interact across biological scales in space and time.
 
 [![](img/icons/lattes.png){.link-icon}](http://lattes.cnpq.br/7485280029624432){.btn}
 [![](img/icons/google.png){.link-icon}](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn}
