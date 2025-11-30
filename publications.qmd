@@ -70,7 +70,7 @@ Sabino, G. P.; Pinheiro, F.; Cabral, J. S.; Koch, I.; Marcusso, G. M.; Tavares, 
 ::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
-[**Rediscovery and conservation of (Begoniaceae): a critically endangered, insular, narrow endemic species of Brazil**](#){.pub-title}
+[**Rediscovery and conservation of (Begoniaceae): a critically endangered, insular, narrow endemic species of Brazil**](https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5){.pub-title}
 
 <span class="pub-authors">
 Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; Pinheiro, F. (2025).
@@ -82,14 +82,14 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-03.jpg){.pub-thumb}
+![https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5](img/pubs/Oryx_2025.png){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
-[**Unveiling anthropogenic disturbance effects on tropical tree communities: clade-based insights across elevations**](#){.pub-title}
+[**Unveiling anthropogenic disturbance effects on tropical tree communities: clade-based insights across elevations**](https://www.sciencedirect.com/science/article/pii/S2666719325001207){.pub-title}
 
 <span class="pub-authors">
 <strong>Kamimura, V. de A.</strong>; Loiola, P. de P.; Neves, D. R. de M.; Marcusso, G. M.; Sabino, G. P.; Assis, M. A.; Joly, C. A.; Pinheiro, F. (2025).
@@ -101,14 +101,14 @@ Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; Marcusso, G. M.; Koch, I.; P
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-04.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/pii/S2666719325001207](img/pubs/TFP_2025.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
-[**We are not all the same: the role of intrapopulation trait variability in shaping functional strategy and performance of widespread species**](#){.pub-title}
+[**We are not all the same: the role of intrapopulation trait variability in shaping functional strategy and performance of widespread species**](https://www.sciencedirect.com/science/article/pii/S2468265925001076){.pub-title}
 
 <span class="pub-authors">
 Sachetti, W. L.; <strong>Kamimura, V. de A.</strong>; Mayer, J. L. S.; Arida, B. L.; de Lima, T. M.; Graciano, D. S.; Pinheiro, F. (2025).
@@ -120,14 +120,14 @@ Sachetti, W. L.; <strong>Kamimura, V. de A.</strong>; Mayer, J. L. S.; Arida, B.
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-05.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/pii/S2468265925001076](img/pubs/Plant_div_2025.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2025"}
 <div class="pub-text">
 
-[**When natives become villains: plant super-dominance and its implications on island ecosystems**](#){.pub-title}
+[**When natives become villains: plant super-dominance and its implications on island ecosystems**](https://www.sciencedirect.com/science/article/pii/S2949790625001302){.pub-title}
 
 <span class="pub-authors">
 Sabino, G. P.; Pinheiro, F.; Koch, I.; de Azevedo, M. L.; Tavares, M. M.; Francini, C. L. B.; Trotta, G. N.; Cunha, I. M.; Sabino, J.; Leite, K. L.; Pereira, R. A.; Pina, P. I.; <strong>Kamimura, V. de A.</strong> (2025).
@@ -139,14 +139,14 @@ Sabino, G. P.; Pinheiro, F.; Koch, I.; de Azevedo, M. L.; Tavares, M. M.; Franci
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-06.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/pii/S2949790625001302](img/pubs/CELL_2025.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2024"}
 <div class="pub-text">
 
-[**The pace of life for forest trees**](#){.pub-title}
+[**The pace of life for forest trees**](https://www.science.org/doi/10.1126/science.adk9616){.pub-title}
 
 <span class="pub-authors">
 Bialic-Murphy, L.; McElderry, R. M.; Esquivel-Muelbert, A.; van den Hoogen, J.; Zuidema, P. A.; Phillips, O. L.; de Oliveira, E. A.; Loayza, P. A.; Alvarez-Davila, E.; Alves, L. F.; Maia, V. A.; Vieira, S. A.; Arantes da Silva, L. C.; Araujo-Murakami, A.; Arets, E.; Astigarraga, J.; Baccaro, F.; Baker, T.; Banki, O.; <strong>Kamimura, V. de A.</strong>; et al. (2024).
@@ -158,14 +158,14 @@ Bialic-Murphy, L.; McElderry, R. M.; Esquivel-Muelbert, A.; van den Hoogen, J.; 
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-07.jpg){.pub-thumb}
+![https://www.science.org/doi/10.1126/science.adk9616](img/pubs/Science_2024.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
-[**Smaller human populations are neither a necessary nor sufficient condition for biodiversity conservation**](#){.pub-title}
+[**Smaller human populations are neither a necessary nor sufficient condition for biodiversity conservation**](https://www.sciencedirect.com/science/article/abs/pii/S0006320722003949?via%3Dihub){.pub-title}
 
 <span class="pub-authors">
 Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasante, S.; Madgulkar, S.; Gonçalves, F.; Geneletti, D.; Diele-Viegas, L. M.; Berger, S.; Colla, S. R.; <strong>Kamimura, V. de A.</strong>; Caggiano, H.; Melo, F.; de Oliveira Dias, M. G.; Kellner, E.; do Couto, E. V. (2023).
@@ -177,14 +177,14 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-08.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/abs/pii/S0006320722003949?via%3Dihub](img/pubs/Biod_con_2024_1.jpeg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
-[**Smaller human populations are still not a necessary condition for biodiversity conservation: a response to Cafaro et al. (2023)**](#){.pub-title}
+[**Smaller human populations are still not a necessary condition for biodiversity conservation: a response to Cafaro et al. (2023)**](https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub){.pub-title}
 
 <span class="pub-authors">
 Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasante, S.; Madgulkar, S.; Gonçalves, F.; Diele-Viegas, L. M.; Colla, S. R.; <strong>Kamimura, V. de A.</strong>; Caggiano, H.; Melo, F.; de Oliveira Dias, M. G.; Kellner, E.; do Couto, E. V. (2023).
@@ -196,14 +196,14 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-09.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub](img/pubs/Biod_con_2024_2.gif){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
-[**Shared role of vegetation types, elevation and soil affecting plant diversity in an old-tropical mountain hotspot**](#){.pub-title}
+[**Shared role of vegetation types, elevation and soil affecting plant diversity in an old-tropical mountain hotspot**](https://link.springer.com/article/10.1007/s11629-022-7838-z){.pub-title}
 
 <span class="pub-authors">
 Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A.</strong>; Mattos, J. S.; Streher, A. S.; Le Stradic, S. (2023).
@@ -215,14 +215,14 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-10.jpg){.pub-thumb}
+![https://link.springer.com/article/10.1007/s11629-022-7838-z](img/pubs/J_mountain_2023.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2023"}
 <div class="pub-text">
 
-[**Trait interactions effects on tropical tree demography depend on the environmental context**](#){.pub-title}
+[**Trait interactions effects on tropical tree demography depend on the environmental context**](https://www.sciencedirect.com/science/article/abs/pii/S1433831923000161){.pub-title}
 
 <span class="pub-authors">
 <strong>Kamimura, V. de A.</strong>; Loiola, P. P.; Carmona, C. P.; Assis, M. A.; Joly, C. A.; Santos, F. A. M.; Vieira, S. A.; Alves, L. F.; Martins, V. F.; Ramos, E.; Ramos, R.; de Bello, F. (2023).
@@ -234,14 +234,14 @@ Loiola, P. P.; Morellato, L. P. C.; Camargo, M. G. G.; <strong>Kamimura, V. de A
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-11.jpg){.pub-thumb}
+![https://www.sciencedirect.com/science/article/abs/pii/S1433831923000161](img/pubs/PPEES_2023.jpg){.pub-thumb}
 </div>
 :::
 
 ::: {.pub-item data-year="2022"}
 <div class="pub-text">
 
-[**Phytogeographic meta-analysis of the vascular epiphytes in the Neotropical region**](#){.pub-title}
+[**Phytogeographic meta-analysis of the vascular epiphytes in the Neotropical region**](https://link.springer.com/article/10.1007/s12229-021-09270-2){.pub-title}
 
 <span class="pub-authors">
 Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto, L.; Lombardi, J. A. (2022).
@@ -253,7 +253,7 @@ Marcusso, G. M.; <strong>Kamimura, V. de A.</strong>; Borgiani, R.; Menini Neto,
 </div>
 
 <div class="pub-figure">
-![](img/pubs/pub-12.jpg){.pub-thumb}
+![https://link.springer.com/article/10.1007/s12229-021-09270-2](img/pubs/Bot_Rev_2022.png){.pub-thumb}
 </div>
 :::
 
