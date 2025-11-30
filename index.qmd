@@ -25,7 +25,7 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
 
 
 
-
+---------------------------------------------------------
 <div class="learn-more">
   <span class="learn-label">Learn more:</span>
 
