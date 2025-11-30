@@ -26,27 +26,27 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
   <span class="learn-label">Learn more:</span>
 
   <a href="home.qmd" class="learn-link">
-    <img src="img/icons/about.png" alt="" class="learn-icon">
+    <img src="img/icons/about.jpeg" alt="" class="learn-icon">
     About me
   </a>
 
   <a href="research.qmd" class="learn-link">
-    <img src="img/icons/research.png" alt="" class="learn-icon">
+    <img src="img/icons/research.jpg" alt="" class="learn-icon">
     Research
   </a>
 
   <a href="publications.qmd" class="learn-link">
-    <img src="img/icons/publications.png" alt="" class="learn-icon">
+    <img src="img/icons/articles.jpg" alt="" class="learn-icon">
     Publications
   </a>
 
   <a href="fieldwork.qmd" class="learn-link">
-    <img src="img/icons/fieldwork.png" alt="" class="learn-icon">
+    <img src="img/icons/fieldwork.webp" alt="" class="learn-icon">
     Fieldwork
   </a>
 
   <a href="code.qmd" class="learn-link">
-    <img src="img/icons/code.png" alt="" class="learn-icon">
+    <img src="img/icons/coding.png" alt="" class="learn-icon">
     Coding
   </a>
 </div>

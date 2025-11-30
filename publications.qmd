@@ -197,7 +197,7 @@ Hughes, A. C.; Tougeron, K.; Martin, D. A.; Menga, F.; Rosado, B. H. P.; Villasa
 </div>
 
 <div class="pub-figure">
-[![](img/pubs/Biod_con_2024_2.gif){.pub-thumb}] (https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub)
+[![](img/pubs/Biod_con_2024_2.gif){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0006320723001544?via%3Dihub)
 </div>
 :::
 
