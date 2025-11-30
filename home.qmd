@@ -9,6 +9,10 @@ title: "About me"
 
 ![](img/vitor-profile.jpg){.profile-photo .about-photo}
 
+### Vitor de Andrade Kamimura
+
+#### Brazilian/Latin Plant Ecologist
+
 ::: {.about-links}
 [![](img/icons/lattes.png){.link-icon}](http://lattes.cnpq.br/7485280029624432){.btn}
 [![](img/icons/google.png){.link-icon}](https://scholar.google.com/citations?user=k_SLiQoAAAAJ&hl=en){.btn}
