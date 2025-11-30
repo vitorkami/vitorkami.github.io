@@ -147,6 +147,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="published-articles" class="level3">
+<h3 class="anchored" data-anchor-id="published-articles">Published articles</h3>
+<div class="pub-filters">
+<p><label> Filter by year: <select id="pub-year-filter"> <option value="all">All years</option> <option value="2025">From 2025</option> <option value="2024">From 2024</option> <option value="2023">From 2023</option> <option value="2022">From 2022</option> <option value="2021">From 2021</option> <option value="2019">From 2019</option> <option value="2018">From 2018</option> <option value="2017">From 2017</option> <option value="2012">From 2012</option> </select> </label></p>
+<p><label> Keyword: <input type="text" id="pub-keyword-filter" placeholder="forest, inselbergs, Atlantic Forest..."> </label></p>
+</div>
 <div class="pub-list">
 <div class="pub-item">
 <div class="pub-text">
@@ -338,8 +344,44 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const yearSelect = document.getElementById('pub-year-filter');
+  const keywordInput = document.getElementById('pub-keyword-filter');
+  const items = document.querySelectorAll('.pub-item');
+
+  function applyPubFilters() {
+    const yearVal = yearSelect.value;
+    const minYear = yearVal === 'all' ? null : parseInt(yearVal, 10);
+    const keyword = keywordInput.value.trim().toLowerCase();
+
+    items.forEach(item => {
+      const itemYear = parseInt(item.dataset.year, 10);
+      const text = item.innerText.toLowerCase();
+
+      let visible = true;
+
+      // filtro por ano: "From 2023" = mostra apenas publicações com ano >= 2023
+      if (minYear !== null && (!itemYear || itemYear < minYear)) {
+        visible = false;
+      }
+
+      // filtro por palavra-chave: busca no texto inteiro do card
+      if (keyword && !text.includes(keyword)) {
+        visible = false;
+      }
+
+      item.style.display = visible ? '' : 'none';
+    });
+  }
+
+  yearSelect.addEventListener('change', applyPubFilters);
+  keywordInput.addEventListener('input', applyPubFilters);
+});
+</script>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

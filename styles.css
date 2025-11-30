@@ -257,6 +257,30 @@
   }
 }
 
+/* Filtros da página de publicações */
+.pub-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.pub-filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.pub-filters select,
+.pub-filters input[type="text"] {
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid #cccccc;
+  font-size: 0.9rem;
+}
+
+
 /* ===== Research projects ===== */
 
 .project-filters {
