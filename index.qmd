@@ -23,6 +23,9 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
 [![](img/icons/researchgate.png){.link-icon}](https://www.researchgate.net/profile/Vitor-Kamimura?ev=hdr_xprf){.btn}
 [![](img/icons/github.png){.link-icon}](https://github.com/vitorkami){.btn}
 
+
+
+
 <div class="learn-more">
   <span class="learn-label">Learn more:</span>
 
