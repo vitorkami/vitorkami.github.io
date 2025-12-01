@@ -32,6 +32,9 @@ title: "About me"
 
 :::
 
+---------------------------------------------------------
+For collaborations, supervision requests or invitations for talks, you can [contact me here](contact.qmd).
+
 ::: about-right
  
 <p>I am a plant ecologist fascinated by the diversity of tropical ecosystems and by life's capacity to persist in extreme environments. My research integrates evolutionary, functional and spatial ecology to uncover the mechanisms that generate, maintain and organize biodiversity, and to understand how ecological and evolutionary processes interact across biological scales in space and time. I am also engaged with political ecology, critically examining neo‑colonial narratives in conservation biology and their implications for biodiversity governance and scientific practice.</p>
