@@ -52,11 +52,6 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
 
 :::
 
-
----------------------------------------------------------
-
-[Contact me](contact.qmd){.btn .btn-outline-primary}
-
 ::: {.column width="25%"}
 ![](img/index.jpg){.profile-photo}
 :::
