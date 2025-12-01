@@ -30,6 +30,9 @@ title: "About me"
   </a>
 </div>
 
+---------------------------------------------------------
+[Contact me](mailto:kamimuravitor@gmail.com){.btn .btn-outline-primary}
+
 :::
 
 ::: about-right
