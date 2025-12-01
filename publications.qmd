@@ -292,7 +292,7 @@ Blundo, C.; Carilla, J.; Grau, R.; Malizia, A.; Malizia, L.; Osinaga-Acosta, O.;
 </div>
 
 <div class="pub-figure">
-![[](img/pubs/Biod_con_2021.jpeg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0006320720309071)
+[![](img/pubs/Biod_con_2021.jpeg){.pub-thumb}](https://www.sciencedirect.com/science/article/abs/pii/S0006320720309071)
 </div>
 :::
 
