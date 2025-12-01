@@ -10,7 +10,7 @@ title: "Contact"
 
     <p>
       Use this form to contact me about collaboration opportunities, supervision or mentoring requests,
-      and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology.
+      and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)
     </p>
   </div>
 
