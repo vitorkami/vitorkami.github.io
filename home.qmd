@@ -30,11 +30,10 @@ title: "About me"
   </a>
 </div>
 
+:::
 
 ---------------------------------------------------------
 For collaborations, supervision requests or invitations for talks, you can [contact me here](contact.qmd).
-
-:::
 
 ::: about-right
  
