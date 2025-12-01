@@ -88,14 +88,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Use this form to contact me about collaboration opportunities, supervision or mentoring requests, and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)\n\n\n\n\n&lt;label for=\"contact-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"contact-name\" name=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"contact-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"contact-email\" name=\"email\" placeholder=\"your@email.com\"&gt;\n\n\n&lt;label for=\"contact-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"contact-message\" name=\"message\" rows=\"6\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSend message"
+    "text": "Use this form to contact me about collaboration opportunities, supervision or mentoring requests, and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)\n\n\n\n\n\n&lt;label for=\"contact-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"contact-name\" name=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"contact-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"contact-email\" name=\"email\" placeholder=\"your@email.com\"&gt;\n\n\n&lt;label for=\"contact-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"contact-message\" name=\"message\" rows=\"6\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSend message"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "Use this form to contact me about collaboration opportunities, supervision or mentoring requests, and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)\n\n\n\n\n&lt;label for=\"contact-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"contact-name\" name=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"contact-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"contact-email\" name=\"email\" placeholder=\"your@email.com\"&gt;\n\n\n&lt;label for=\"contact-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"contact-message\" name=\"message\" rows=\"6\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSend message"
+    "text": "Use this form to contact me about collaboration opportunities, supervision or mentoring requests, and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)\n\n\n\n\n\n&lt;label for=\"contact-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"contact-name\" name=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"contact-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"contact-email\" name=\"email\" placeholder=\"your@email.com\"&gt;\n\n\n&lt;label for=\"contact-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"contact-message\" name=\"message\" rows=\"6\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSend message"
   },
   {
     "objectID": "code.html",

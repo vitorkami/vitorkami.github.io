@@ -4,17 +4,15 @@ title: "Contact"
 
 ## Get in touch
 
-::: {.contact-grid}
+<div class="contact-grid">
 
-::: {.contact-left}
+<div class="contact-left">
 ![](img/vitor-profile.jpg){.profile-photo .about-photo}
 
-Use this form to contact me about collaboration opportunities, supervision or mentoring requests,
-and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)
-:::
+<p>Use this form to contact me about collaboration opportunities, supervision or mentoring requests, and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology :)</p>
+</div>
 
-::: {.contact-right markdown="1"}
-
+<div class="contact-right">
 <form class="contact-form" action="mailto:kamimuravitor@gmail.com" method="POST" enctype="text/plain">
   <div class="contact-field">
     <label for="contact-name">Name</label>
@@ -35,7 +33,6 @@ and invitations for talks or seminars related to plant ecology, biodiversity, or
     Send message
   </button>
 </form>
+</div>
 
-:::
-
-:::
+</div>
