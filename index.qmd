@@ -50,6 +50,13 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
   </a>
 </div>
 
+
+
+---------------------------------------------------------
+
+[Contact me](contact.qmd){.btn .btn-outline-primary}
+
+
 :::
 
 ::: {.column width="25%"}

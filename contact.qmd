@@ -1,0 +1,39 @@
+---
+title: "Contact"
+---
+
+## Get in touch
+
+<div class="contact-grid">
+  <div class="contact-left">
+    <img src="img/vitor-profile.jpg" class="profile-photo about-photo">
+
+    <p>
+      Use this form to contact me about collaboration opportunities, supervision or mentoring requests,
+      and invitations for talks or seminars related to plant ecology, biodiversity, or political ecology.
+    </p>
+  </div>
+
+  <div class="contact-right">
+    <form class="contact-form">
+      <div class="contact-field">
+        <label for="contact-name">Name</label>
+        <input type="text" id="contact-name" name="name" placeholder="Your name">
+      </div>
+
+      <div class="contact-field">
+        <label for="contact-email">Email</label>
+        <input type="email" id="contact-email" name="email" placeholder="your@email.com">
+      </div>
+
+      <div class="contact-field">
+        <label for="contact-message">Message</label>
+        <textarea id="contact-message" name="message" rows="6" placeholder="Your message"></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary">
+        Send message
+      </button>
+    </form>
+  </div>
+</div>

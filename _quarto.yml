@@ -15,7 +15,7 @@ website:
       - href: fieldwork.qmd
         text: Fieldwork
       - href: code.qmd
-        text: Code
+        text: Coding
 
 format:
   html:
