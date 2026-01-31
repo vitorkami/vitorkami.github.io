@@ -36,7 +36,7 @@ title: "Publications"
 Chaves, C. J. N.; Tavares, D. U.; Lemos-Silva, I. V.; Bento, J. P. S. P.; Vilela-Bianchini, H.; Aecyo, P.; Cacossi, T. C.; Tavares, M. M.; Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; dos Santos, W. L.; Gonçalves, L. N.; Silva, K. T.; Mayer, J. L. S.; Ribeiro, R. V.; Escobar-Escobar, D.; Feeley, K. J.; Palma-Silva, C. (2026).
 </span><br
 <span class="pub-journal">
-<em>New Phytologist</em>, [Volume/Pages if available].
+<em>New Phytologist</em>, [/].
 </span>
 
 </div>
