@@ -584,7 +584,7 @@ main.content h3 {
 }
 
 /* =========================================
-   Contact page layout
+   12.Contact page layout
    ========================================= */
 
 .contact-grid {
@@ -663,4 +663,83 @@ main.content h3 {
   .contact-right {
     padding-left: 0;
   }
+}
+
+
+/* ===========================
+   13.Publications year tabs
+   =========================== */
+
+.pub-year-tabs {
+  margin: 1.5rem 0 1rem;
+}
+
+/* esconde os radios */
+.pub-year-tabs input[type="radio"] {
+  display: none;
+}
+
+/* deixa os labels (anos) em linha */
+.pub-year-tabs > label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.8rem;
+  margin: 0 0.25rem 0.4rem 0;
+  border-radius: 999px;
+ border: 1px solid #1b5e20;
+  font-size: 0.85rem;
+  cursor: pointer;
+  color: #1b5e20;
+  background-color: #fffde7; /* amarelo bem claro */
+ : background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+/* hover nas abas */
+.pub-year-tabs > label:hover {
+  background-color: #c5e1a5; /* verd claro */
+}
+
+/* blocos de conteúdo de cada ano */
+.pub-year-tab-content {
+  display: none;
+ padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  margin-top: 0.5rem;
+* título interno do ano */
+.pub-year-heading {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: #33691e;
+  font-size: 0.9rem;
+}
+
+/* mostra só o conteúdo do anoado */
+#pub-2025:checked ~ .pub-year-tab-content:nth-of-type(1),
+#pub-2024:checked ~ .pub-year-tab-content:nth-of-type(2),
+#pub-2023:checked ~ .pub-year-tab-content:nth-of-type(3),
+#pub-2022:checked ~ .pub-year-tab-content:nth-of-type(4),
+#pub-2021:checked ~ .pub-year-tab-content:nth-of-type(5),
+#pub-2019:checked ~ .pub-year-tab-content:nth-of-type(6),
+#pub-2018:checked ~ .pub-year-tab-content:nth-of-type(7),
+#pub-2017:checked ~ .pub-year-tab-content:nth-of-type(8),
+#pub-2012:checked ~ .pub-year-tab-content:nth-of-type(9) {
+  display: block;
+}
+
+/* aba ativa (ano selecionado) */
+#pub-2025:checked + label,
+#pub-2024:checked + label,
+#pub-2023:checked + label,
+#pub-2022:checked + label,
+#pub-2021:checked + label,
+#pub-2019:checked + label,
+#pub-2018:checked + label,
+#pub-2017:checked + label,
+#pub-2012:checked + label {
+  background-color: #1b5e20; /* verde escuro */
+  color: #ffffff;
+  border-color: #1b5e20;
 }
