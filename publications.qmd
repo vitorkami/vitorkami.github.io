@@ -34,9 +34,9 @@ title: "Publications"
 [**Canalized to heat, plastic to cold: adaptive coordination of leaf and seed strategies in populations spanning an elevational gradient**](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70912){.pub-title}
 <span class="pub-authors">
 Chaves, C. J. N.; Tavares, D. U.; Lemos-Silva, I. V.; Bento, J. P. S. P.; Vilela-Bianchini, H.; Aecyo, P.; Cacossi, T. C.; Tavares, M. M.; Sabino, G. P.; <strong>Kamimura, V. de A.</strong>; dos Santos, W. L.; Gonçalves, L. N.; Silva, K. T.; Mayer, J. L. S.; Ribeiro, R. V.; Escobar-Escobar, D.; Feeley, K. J.; Palma-Silva, C. (2026).
-</span><br
+</span><br>
 <span class="pub-journal">
-<em>New Phytologist</em>, [/].
+<em>New Phytologist</em>
 </span>
 
 </div>
