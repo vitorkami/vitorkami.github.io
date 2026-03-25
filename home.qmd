@@ -7,7 +7,7 @@ title: "About me"
 ::: about-grid
 ::: about-left
          
-<img src="img/vitor-profile.jpg" class="profile-photo about-photo">
+<img src="img/index.jpg" class="profile-photo about-photo">
 
 <h4>Vitor de Andrade Kamimura</h4>
 <h5>Brazilian/Latin Plant Ecologist</h5>

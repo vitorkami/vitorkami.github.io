@@ -53,6 +53,6 @@ My research integrates evolutionary, functional, and spatial ecology to uncover 
 :::
 
 ::: {.column width="25%"}
-![](img/index.jpg){.profile-photo}
+![](img/vitor-profile.jpg){.profile-photo}
 :::
 :::
