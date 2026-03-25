@@ -1,7 +1,76 @@
 ---
-title: "Media"
+title: "Media & Press"
 ---
 
-### My work in the press
+### My research in the press
 
-*(soon)*
+<div class="pub-filters">
+  <label>
+    Filter by year:
+    <select id="media-year-filter">
+      <option value="all">All years</option>
+      <option value="2026">From 2026</option>
+    </select>
+  </label>
+  <label>
+    Keyword:
+    <input type="text" id="media-keyword-filter" placeholder="Begonia, forest, climate...">
+  </label>
+</div>
+
+::: {.media-list}
+
+::: {.media-item data-year="2026"}
+<div class="media-outlet">🗞️ Folha de S.Paulo · February 2026</div>
+
+<div class="media-content">
+<div class="media-text">
+
+[**Planta considerada extinta volta a ser vista em ilha no litoral de SP após cem anos**](https://www1.folha.uol.com.br/ciencia/2026/02/planta-considerada-extinta-volta-a-ser-vista-em-ilha-no-litoral-de-sp-apos-cem-anos.shtml){.media-title}
+
+<span class="media-byline">Ana Bottallo</span>
+
+<span class="media-desc">
+Coverage of the rediscovery of *Begonia larorum* on Ilha de Alcatrazes after over 100 years. Based on: Sabino, **Kamimura** et al. (2025), [*Oryx*](https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5).
+</span>
+
+</div>
+<div class="media-figure">
+[![](img/media/Folha_begonia.png){.media-thumb}](https://www1.folha.uol.com.br/ciencia/2026/02/planta-considerada-extinta-volta-a-ser-vista-em-ilha-no-litoral-de-sp-apos-cem-anos.shtml)
+</div>
+</div>
+:::
+
+:::
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const yearSelect = document.getElementById('media-year-filter');
+  const keywordInput = document.getElementById('media-keyword-filter');
+  const items = document.querySelectorAll('.media-item');
+
+  function applyMediaFilters() {
+    const yearVal = yearSelect.value;
+    const minYear = yearVal === 'all' ? null : parseInt(yearVal, 10);
+    const keyword = keywordInput.value.trim().toLowerCase();
+
+    items.forEach(item => {
+      const itemYear = parseInt(item.dataset.year, 10);
+      const text = item.textContent.toLowerCase();
+      let visible = true;
+
+      if (minYear !== null && (!itemYear || itemYear < minYear)) {
+        visible = false;
+      }
+      if (keyword && !text.includes(keyword)) {
+        visible = false;
+      }
+
+      item.style.display = visible ? '' : 'none';
+    });
+  }
+
+  yearSelect.addEventListener('change', applyMediaFilters);
+  keywordInput.addEventListener('input', applyMediaFilters);
+});
+</script>
