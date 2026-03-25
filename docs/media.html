@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Media – Vitor Kamimura</title>
+<title>Media &amp; Press – Vitor Kamimura</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -134,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Media</h1>
+<h1 class="title">Media &amp; Press</h1>
 </div>
 
 
@@ -151,9 +151,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="my-work-in-the-press" class="level3">
-<h3 class="anchored" data-anchor-id="my-work-in-the-press">My work in the press</h3>
-<p><em>(soon)</em></p>
+<section id="my-research-in-the-press" class="level3">
+<h3 class="anchored" data-anchor-id="my-research-in-the-press">My research in the press</h3>
+<div class="pub-filters">
+<p><label> Filter by year: <select id="media-year-filter"> <option value="all">All years</option> <option value="2026">From 2026</option> </select> </label> <label> Keyword: <input type="text" id="media-keyword-filter" placeholder="Begonia, forest, climate..."> </label></p>
+</div>
+<div class="media-list">
+<div class="media-item" data-year="2026">
+<div class="media-outlet">
+🗞️ Folha de S.Paulo · February 2026
+</div>
+<div class="media-content">
+<div class="media-text">
+<p><a href="https://www1.folha.uol.com.br/ciencia/2026/02/planta-considerada-extinta-volta-a-ser-vista-em-ilha-no-litoral-de-sp-apos-cem-anos.shtml" class="media-title"><strong>Planta considerada extinta volta a ser vista em ilha no litoral de SP após cem anos</strong></a></p>
+<p><span class="media-byline">Ana Bottallo</span></p>
+<p><span class="media-desc"> Coverage of the rediscovery of <em>Begonia larorum</em> on Ilha de Alcatrazes after over 100 years. Based on: Sabino, <strong>Kamimura</strong> et al.&nbsp;(2025), <a href="https://www.cambridge.org/core/journals/oryx/article/rediscovery-and-conservation-of-begonia-larorum-begoniaceae-a-critically-endangered-insular-narrow-endemic-species-of-brazil/2C1188782B29E0A99746F113DEC4C9C5"><em>Oryx</em></a>. </span></p>
+</div>
+<div class="media-figure">
+<p><a href="https://www1.folha.uol.com.br/ciencia/2026/02/planta-considerada-extinta-volta-a-ser-vista-em-ilha-no-litoral-de-sp-apos-cem-anos.shtml"><img src="img/media/Folha_begonia.png" class="media-thumb img-fluid"></a></p>
+</div>
+</div>
+</div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const yearSelect = document.getElementById('media-year-filter');
+  const keywordInput = document.getElementById('media-keyword-filter');
+  const items = document.querySelectorAll('.media-item');
+
+  function applyMediaFilters() {
+    const yearVal = yearSelect.value;
+    const minYear = yearVal === 'all' ? null : parseInt(yearVal, 10);
+    const keyword = keywordInput.value.trim().toLowerCase();
+
+    items.forEach(item => {
+      const itemYear = parseInt(item.dataset.year, 10);
+      const text = item.textContent.toLowerCase();
+      let visible = true;
+
+      if (minYear !== null && (!itemYear || itemYear < minYear)) {
+        visible = false;
+      }
+      if (keyword && !text.includes(keyword)) {
+        visible = false;
+      }
+
+      item.style.display = visible ? '' : 'none';
+    });
+  }
+
+  yearSelect.addEventListener('change', applyMediaFilters);
+  keywordInput.addEventListener('input', applyMediaFilters);
+});
+</script>
 
 
 </section>

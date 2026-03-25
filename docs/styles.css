@@ -743,3 +743,82 @@ main.content h3 {
   color: #ffffff;
   border-color: #1b5e20;
 }
+
+/* =========================================
+   Media & Press Page
+   ========================================= */
+
+.media-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.media-item {
+  border-left: 4px solid #5cb85c;
+  padding: 1rem 1.2rem;
+  background-color: #f9f9f9;
+  border-radius: 0 8px 8px 0;
+}
+
+.media-outlet {
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+  margin-bottom: 0.6rem;
+}
+
+.media-content {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.media-text {
+  flex: 1;
+}
+
+.media-title {
+  font-size: 1.05rem;
+  font-weight: bold;
+}
+
+.media-byline {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+  margin: 0.3rem 0 0.6rem 0;
+  font-style: italic;
+}
+
+.media-desc {
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.5;
+}
+
+.media-figure {
+  flex-shrink: 0;
+  width: 160px;
+}
+
+.media-thumb {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+  .media-content {
+    flex-direction: column;
+  }
+  .media-figure {
+    width: 100%;
+  }
+}
