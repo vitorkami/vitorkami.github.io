@@ -12,6 +12,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: media.qmd
+        text: Media
       - href: fieldwork.qmd
         text: Fieldwork
       - href: code.qmd
